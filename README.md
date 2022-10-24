@@ -2,10 +2,10 @@
 <img src="./files/assets/java.png">
 <h1>Java - Notas de Estudo</h1>
 
-[Sintaxe Básica](https://github.com/michelelozada/Java-Study-Notes/new/main#i-sintaxe-basica) &nbsp;•&nbsp; 
-[Java Orientado a Objetos](https://github.com/michelelozada/Java-Study-Notes/new/main#ii-java-orientado-a-objetos) &nbsp;•&nbsp; 
-[Exercícios](https://github.com/michelelozada/Java-Study-Notes/new/main#iii-exercicios) &nbsp;•&nbsp;
-[Fontes consultadas](https://github.com/michelelozada/Java-Study-Notes/new/main#iv-fontes-consultadas)
+[Sintaxe Básica](https://github.com/michelelozada/Java-Study-Notes#i-sintaxe-basica) &nbsp;•&nbsp; 
+[Java Orientado a Objetos](https://github.com/michelelozada/Java-Study-Notes#ii-java-orientado-a-objetos) &nbsp;•&nbsp; 
+[Exercícios](https://github.com/michelelozada/Java-Study-Notes#iii-exercicios) &nbsp;•&nbsp;
+[Fontes consultadas](https://github.com/michelelozada/Java-Study-Notes#iv-fontes-consultadas)
 
 &nbsp; 
 ### I. Sintaxe Basica
@@ -23,20 +23,20 @@
 | [10](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A10-Estrutura-do-while.md)| Estrutura de Repetição - Loop Do-While |
 | [11](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A11-Estrutura-foreach.md)| Estrutura de Repetição - Loop Foreach |
 | [12](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A12-Metodos.md)| Métodos |
-| [13](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A13-Metodos-string.md)| Métodos para Strings |
+| [13](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A13-Metodos-strings.md)| Métodos para Strings |
 | [14](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A14-Metodos-matematicos.md)| Métodos Matemáticos |
 
 &nbsp;    
 ### II. Java Orientado a Objetos
 | Link  | Descrição |
 | :---: | :---		 |
-| [01](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B1-Metodo-construtor.md)| Métodos Construtor, Get e Set  |
+| [01](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B01-Metodo-construtor.md)| Métodos Construtor, Get e Set  |
 
 &nbsp;    
 ### III. Exercicios
 | Link  | Descrição |
 | :---: | :---		 |
-| [01](https://github.com/michelelozada/Java-Studt-Notes/blob/main/files/exercicios/C01-Exercicios.md)| Exercícios Diversos |
+| [01](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/exercicios)| Exercícios Diversos |
 
 &nbsp;    
 ### IV. Fontes consultadas
