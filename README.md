@@ -46,5 +46,5 @@
 | [02](https://www.alura.com.br/apostila-java-orientacao-objetos) | Java e Orientação a Objetos (apostila da Alura) 
 
 &nbsp;    
-[[Voltar ao topo]](https://github.com/michelelozada2/dio-primeiro-repositorio/new/main#java---notas-de-estudo)
+[[Voltar ao topo]](https://github.com/michelelozada/Java-Study-Notes#java---notas-de-estudo)
 </div>   
