@@ -4,6 +4,42 @@
 &nbsp;
      
 &nbsp;     
+**Anatomia básica de um método**
+&nbsp;     
+ - Modificador de acesso:    
+      `public`, `protected` ou `private`
+&nbsp;     
+&nbsp;     
+ - Tipo do retorno esperado:     
+      `int`, `String`, `float`, etc. ou `void` para quando não há retorno
+ &nbsp;     
+ &nbsp;     
+ - Nome do método:     
+      Usar padrão camelCase  
+ &nbsp;
+ &nbsp;      
+ - (No caso de receber parâmetros)     
+      O tipo da variável seguido pela variável
+ &nbsp;     
+ &nbsp;     
+ - Sempre que for retornado um valor a quem chamou o método;    
+     Usar o comando `return`
+&nbsp;
+     
+&nbsp;     
+
+```java
+public void imprimirMensagem(){
+	System.out.println("Isto é um teste...");
+};
+
+public int somarValores(int valor1, int valor2){
+	return valor 1 + valor 2;
+};
+```
+&nbsp;
+     
+&nbsp;  
 **Declarando um método sem retorno**
 ```java
 

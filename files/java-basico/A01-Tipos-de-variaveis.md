@@ -22,7 +22,7 @@ O Java possui dois tipos de dados: **tipos primitivos** e **tipos por referênci
 &nbsp;  
 **Tipos por referência:**
  - Strings
- - Arrays Primitivos
+ - Arrays 
  - Objetos
 &nbsp;
      

@@ -7,6 +7,8 @@
 Ideal para casos em que apenas uma variável está sendo analisada
 ```java
 
+/* Pesquisa num intervalo de 1 a 5 */
+
 int numero = 3;
 	
 switch(numero) {
@@ -22,26 +24,7 @@ case 5:
 	System.out.println("Numero 5");
 	break; 		
 default:
-	System.out.println("Este valor eh inválido");
+	System.out.println("Este valor é inválido");
 	break; 		
 }
-```
-&nbsp;
-&nbsp;   
-```java 
-	
-int mes = 4;
-	
-switch(mes){
-case(1):	
-case(7):
-case(12):
-	System.out.println("Escola em ferias");
-	break;
-default:
-	System.out.println("Escola funciona normalmente");
-	break;	
-}	
-
-// Retorna: Escola funciona normalmente
 ```

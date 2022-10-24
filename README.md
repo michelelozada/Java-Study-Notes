@@ -30,7 +30,8 @@
 ### II. Java Orientado a Objetos
 | Link  | Descrição |
 | :---: | :---		 |
-| [01](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B01-Metodo-construtor.md)| Métodos Construtor, Get e Set  |
+| [01](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B01-Metodo-construtor.md)| Métodos Construtor, Get e Set |
+| [02](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B02-Controle-acesso-classes.md)| Controle de acesso às classes  |
 
 &nbsp;    
 ### III. Exercicios
