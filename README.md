@@ -4,7 +4,7 @@
 
 [Sintaxe Básica](https://github.com/michelelozada/Java-Study-Notes#i-sintaxe-basica) &nbsp;•&nbsp; 
 [Java Orientado a Objetos](https://github.com/michelelozada/Java-Study-Notes#ii-java-orientado-a-objetos) &nbsp;•&nbsp; 
-[Exercícios Diversos](https://github.com/michelelozada/Java-Study-Notes#iii-exercicios) &nbsp;•&nbsp;
+[Exercícios Diversos](https://github.com/michelelozada/Java-Study-Notes#iii-exercicios-diversos) &nbsp;•&nbsp;
 [Fontes Consultadas](https://github.com/michelelozada/Java-Study-Notes#iv-fontes-consultadas)
 
 &nbsp; 
@@ -47,7 +47,7 @@
 | [02](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/exercicios/java-orientado-objetos)| Exercícios - Java Orientado a Objetos |
 
 &nbsp;    
-### IV. Fontes pesquisadas
+### IV. Fontes Consultadas
 | Link   | Título |
 | :---:  | :---	  |
 | [01](https://www.bvirtual.com.br/NossoAcervo/Publicacao/447)| Lógica de Programação e Estrutura de Dados: com<br> aplicações em Java (Sandra Puga e Gerson Rissetti)
