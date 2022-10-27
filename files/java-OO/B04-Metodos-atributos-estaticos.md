@@ -18,12 +18,50 @@ public static int nome-do-atributo;
 &nbsp; 
 **2 - Métodos estáticos**  
 - Também vigoram para a classe como um todo e não apenas para cada instância.
-- Portanto, são acessados independentemente da instanciação e podem acessar outros atributos que também sejam estáticos.  
+- Portanto, são executados sem estarem associados a nenhuma instância e podem acessar outros atributos que também sejam estáticos.  
 &nbsp;
      
 *Sintaxe básica - exemplo*  
 ```java
 public static int NomeDoMetodo(){
 	(...)
+}
+```
+&nbsp;     
+
+**:arrow_forward: Exemplo**  
+&nbsp;
+
+***Classe Principal***
+```java
+public class Principal {
+	public static void main(String[] args) {
+		float parcela = Parcela.calcularMulta(200.00f);
+		System.out.printf("Valor da parcela corrigida: R$ %.2f", parcela);
+		Parcela.imprimirTaxa();
+	}
+}
+
+/* Retorna:
+ Valor da parcela corrigida: R$ 212,00
+ Taxa aplicada para calculo multa: 6.0%
+*/
+```
+
+&nbsp;
+
+***Classe Parcela***
+```java
+// Criação de um atributo estático
+public static float taxa = 0.06f;
+
+// Criação de um método estático
+public static float calcularMulta(float parcela) {
+	return parcela + parcela * taxa;
+}
+
+// Método para impressão da taxa da multa aplicada
+public static void imprimirTaxa() {
+	System.out.println("\nTaxa aplicada para calculo da multa: " + (taxa * 100) +"%");
 }
 ```

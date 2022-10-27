@@ -4,7 +4,7 @@
 &nbsp;
      
 &nbsp;      
-Evita que - ao ocorrerem eventos ou comportamementos inesperados durante a execução do
+Evita que - ao ocorrerem eventos ou comportamentos inesperados durante a execução do
 programa - o mesmo seja encerrado abruptamente e sem maiores informações sobre a exceção em questão.
 &nbsp;
      
@@ -47,7 +47,7 @@ public class Main {
 &nbsp;
      
 &nbsp;   
-**2 - Criação de exceções com o comando `throw`**
+**2 - Criação de exceções através do comando `throw`**
 ```java 
 public class Main {
 	public static void main(String[] args) {

@@ -1,10 +1,13 @@
 > **Estrutura de Controle - If Else**  
 > Repositório: Java - Notas de estudo *(Sintaxe Básica)*    
-> GitHub: @michelelozada
+> GitHub: @michelelozada 
 &nbsp;
      
-&nbsp;      
+&nbsp;        
+**1 - Estrutura `if ... else`**
 ```java
+
+/* Consulta sobre status escolar */
 
 String status;
 int media = 65;
@@ -21,7 +24,7 @@ System.out.println("Status: " + status);
 &nbsp;
      
 &nbsp;         
-**Utilizando alternativamente o operador ternário para o mesmo exemplo**
+**2 - Utilizando alternativamente o operador ternário para o exemplo acima**
 ```java
 
 String status;
@@ -35,7 +38,7 @@ System.out.println("Status: Aluno(a) " + status);
 &nbsp;
      
 &nbsp;  
-**Estrutura else if**
+**3 - Estrutura `else ... if`**
 ```java
 
 /* Consulta sobre alistamento eleitorial e voto */

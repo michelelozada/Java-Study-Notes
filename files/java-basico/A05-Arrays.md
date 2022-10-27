@@ -5,11 +5,13 @@
      
 &nbsp;     
 **Arrays**  
- - Armazenam sequencialmente dados do mesmo tipo  
- - Podem ser unidimensionais e multidimensionais  
- - Há duas formas para se criar um array  
-&nbsp;
-&nbsp;   
+ - Armazenam sequencialmente dados de um mesmo tipo  
+ - Podem ser unidimensionais ou multidimensionais  
+ &nbsp;  
+ 
+ Há duas formas para se criar um array:    
+ &nbsp; 
+ 
 **Forma 1:** Atribuindo valores a uma array vazio
 ```java
 
