@@ -26,8 +26,8 @@
 | [13](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A13-Metodos-strings.md)| Métodos para Strings |
 | [14](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A14-Metodos-matematicos.md)| Métodos Matemáticos |
 | [15](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A15-Tratamento-excecoes.md)| Tratamento de exceções |
-| [16](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A16-Convencoes-codificacao.md)| (Extra) Convenções de codificação em Java |
-| [17](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A17-Atalhos-eclipse.md)| (Extra) Atalhos da IDE Eclipse |
+| [16](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A16-Convencoes-codificacao.md)| *(Extra)* Convenções de codificação em Java |
+| [17](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A17-Atalhos-eclipse.md)| *(Extra)* Atalhos da IDE Eclipse |
 
 &nbsp;    
 ### II. Java Orientado a Objetos
@@ -43,15 +43,15 @@
 ### III. Exercicios Diversos
 | Link  | Tópico     |
 | :---: | :---		 |
-| [01](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/sintaxe-basica)| Exercícios - Sintaxe Básica           |
-| [01](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/java-orientado-objetos)| Exercícios - Java Orientado a Objetos |
+| [01](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/exercicios/sintaxe-basica)| Exercícios - Sintaxe Básica           |
+| [02](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/exercicios/java-orientado-objetos)| Exercícios - Java Orientado a Objetos |
 
 &nbsp;    
 ### IV. Fontes pesquisadas
 | Link   | Título |
 | :---:  | :---	  |
-| [01](https://www.bvirtual.com.br/NossoAcervo/Publicacao/447)    | Lógica de Programação e Estrutura de Dados: com<br> aplicações em Java (Sandra Puga e Gerson Rissetti)
-| [02](https://www.alura.com.br/apostila-java-orientacao-objetos) | Java e Orientação a Objetos (apostila da Alura) 
+| [01](https://www.bvirtual.com.br/NossoAcervo/Publicacao/447)| Lógica de Programação e Estrutura de Dados: com<br> aplicações em Java (Sandra Puga e Gerson Rissetti)
+| [02](https://www.alura.com.br/apostila-java-orientacao-objetos)| Java e Orientação a Objetos (apostila da Alura) 
 
 &nbsp;    
 [[Voltar ao topo]](https://github.com/michelelozada/Java-Study-Notes#java---notas-de-estudo)

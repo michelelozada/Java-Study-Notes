@@ -1,5 +1,4 @@
-/* Crie uma calcculadora que apresente o Índice de Massa Corpórea de acordo com dados lidos e forneça
-a classificação a respeito */
+/* Crie uma calculadora que apresente o Índice de Massa Corpórea, de acordo com dados fornecidos pelo usuário e forneça a classificação correspondente a respeito */
 
 package github.repositorio.estudo.java;
 
