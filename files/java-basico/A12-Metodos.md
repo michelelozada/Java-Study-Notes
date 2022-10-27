@@ -1,33 +1,10 @@
 > **Métodos**  
-> Repositório: Java - Notas de estudo (Sintaxe Básica)  
+> Repositório: Java - Notas de estudo *(Sintaxe Básica)*    
 > GitHub: @michelelozada
 &nbsp;
      
-&nbsp;     
-**Anatomia básica de um método**
-&nbsp;     
- - Modificador de acesso:    
-      `public`, `protected` ou `private`
-&nbsp;     
-&nbsp;     
- - Tipo do retorno esperado:     
-      `int`, `String`, `float`, etc. ou `void` para quando não há retorno
- &nbsp;     
- &nbsp;     
- - Nome do método:     
-      Usar padrão camelCase  
- &nbsp;
- &nbsp;      
- - (No caso de receber parâmetros)     
-      O tipo da variável seguido pela variável
- &nbsp;     
- &nbsp;     
- - Sempre que for retornado um valor a quem chamou o método;    
-     Usar o comando `return`
-&nbsp;
-     
-&nbsp;     
-
+&nbsp;       
+**1 - Anatomia básica de um método**
 ```java
 public void imprimirMensagem(){
 	System.out.println("Isto é um teste...");
@@ -37,10 +14,28 @@ public int somarValores(int valor1, int valor2){
 	return valor 1 + valor 2;
 };
 ```
+- **Modificador de acesso:**      
+      `public`, `protected` ou `private`
+&nbsp;     
+&nbsp;     
+ - **Tipo do retorno esperado:**         
+      `int`, `String`, `float`, etc. ou `void` para quando não há retorno
+ &nbsp;     
+ &nbsp;     
+ - **Nome do método:**         
+      Usar padrão camelCase  
+ &nbsp;
+ &nbsp;      
+ - **(No caso de receber parâmetros)**  
+      O tipo da variável seguido pela variável
+ &nbsp;     
+ &nbsp;     
+ - **Sempre que for retornado um valor a quem chamou o método:**      
+     Usar o comando `return`  
 &nbsp;
-     
-&nbsp;  
-**Declarando um método sem retorno**
+
+&nbsp;    
+**2 - Declarando um método sem retorno**
 ```java
 
 public class Principal {
@@ -56,8 +51,9 @@ public class Principal {
 // Retorna: Hello Java!
 ```
 &nbsp;
-&nbsp;    
-**Declarando um método com retorno**
+
+&nbsp;      
+**3 - Declarando um método com retorno**
 ```java
 
 public class Principal {

@@ -1,5 +1,5 @@
 > **Métodos para Strings**  
-> Repositório: Java - Notas de estudo (Sintaxe Básica)  
+> Repositório: Java - Notas de estudo *(Sintaxe Básica)*    
 > GitHub: @michelelozada
 &nbsp;
      
