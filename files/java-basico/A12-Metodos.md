@@ -19,7 +19,7 @@ public int somarValores(int valor1, int valor2){
 &nbsp;     
 &nbsp;     
  - **Tipo do retorno esperado:**         
-      `int`, `String`, `float`, etc. ou `void` para quando não há retorno
+      `int`, `String`, `float`, etc. ou `void` para quando não possui valor de retorno
  &nbsp;     
  &nbsp;     
  - **Nome do método:**         

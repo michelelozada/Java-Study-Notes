@@ -5,8 +5,9 @@
      
 &nbsp;  
 **1 - Método Construtor**
- - É executado apenas uma vez, no momento da instanciação de uma classe/criação de um objeto. 	
- - É possível a existência de mais de um método construtor em uma classe, porém sempre com parâmetros diferentes.
+ - Deve ter o mesmo nome da classe.  
+ - É executado apenas uma vez, no momento da instanciação de uma classe/criação de um objeto.  
+ - É possível a existência de mais de um método construtor em uma classe, porém sempre com parâmetros diferentes.  
  - Ainda que não tenha sido declarado um método construtor para a classe, existirá um construtor vazio implícito ali.    
 &nbsp;     
          
@@ -17,12 +18,24 @@
 **2.1 - Método Get**
  - Obtém as propriedades de um atributo.  
  - Portanto, seu tipo de retorno deve ser igual ao tipo do atributo.  
+
+```java
+public double getValorMensalidade(){
+	return mensalidade; 
+}
+```
 &nbsp;  
 
 **2.2 - Método Set** 
  - Estabelece/define as propriedades de um atributo. 
+ - O comando `this` abaixo faz referência à própria classe e evita ambiguidade quando um parâmetro tem o mesmo nome de um atributo.
  
- &nbsp;     
+```java
+public void setValorMensalidade(float mensalidade){
+	this.mensalidade = mensalidade;
+}
+```
+&nbsp;
 
 **:arrow_forward: Exemplo - Método Construtor**   
 &nbsp;
@@ -39,13 +52,13 @@ public class Principal {
 		Avaliacao aluno1 = new Avaliacao(7, 4, 10);
 				
 		// Chamando os métodos para cálculo da média
-		System.out.printf("A média poderada do aluno é: \n%.2f\n", aluno1.mediaAritmetica());
+		System.out.printf("A média poderada do aluno é: %.2f\n", aluno1.mediaAritmetica());
 		System.out.printf("A média ponderada do aluno é: %.2f", aluno1.mediaPonderada());
 	}
 }
 
 /* Retorna: 
-A média poderada do aluno é: 7,00
+A média aritmética do aluno é: 7,00
 A média ponderada do aluno é: 7,33
 */
 ```

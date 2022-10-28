@@ -23,7 +23,7 @@ public static int nome-do-atributo;
      
 *Sintaxe básica - exemplo*  
 ```java
-public static int NomeDoMetodo(){
+public static int nomeDoMetodo(){
 	(...)
 }
 ```

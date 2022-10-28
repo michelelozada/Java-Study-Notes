@@ -10,7 +10,7 @@
 &nbsp; 
 ### I. Sintaxe Basica
 | Link  | Tópico  |
-| :---: | :---		 |
+| :---: | :---	  |
 | [01](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A01-Tipos-de-variaveis.md)| Tipos de Variáveis |
 | [02](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A02-Constantes.md)| Constantes |
 | [03](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A03-Entrada-saida-dados.md)| Entrada e Saída de Dados |
@@ -32,12 +32,13 @@
 &nbsp;    
 ### II. Java Orientado a Objetos
 | Link  | Tópico   |
-| :---: | :---		 |
+| :---: | :---	   |
 | [01](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B01-Classes-e-objetos.md)| Classes, Objetos, Atributos e Métodos |
 | [02](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B02-Controle-acesso-classes.md)| Controles de Acesso às Classes |
 | [03](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B03-Construtor-get-set.md)| Métodos Construtor, Get e Set |
 | [04](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B04-Metodos-atributos-estaticos.md)| Métodos e Atributos Estáticos |
 | [05](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B05-Classes-metodos-abstratos.md)| Classes e Métodos Abstratos |
+| [06](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B06-Array-list.md)| Classe ArrayList |
 
 &nbsp;    
 ### III. Exercicios Diversos
