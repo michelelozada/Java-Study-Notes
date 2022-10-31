@@ -34,17 +34,20 @@
 | Link  | Tópico   |
 | :---: | :---	   |
 | [01](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B01-Classes-e-objetos.md)| Classes, Objetos, Atributos e Métodos |
-| [02](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B02-Controle-acesso-classes.md)| Controles de Acesso às Classes |
+| [02](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B02-Modificadores-acesso.md)| Modificadores de Acesso |
 | [03](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B03-Construtor-get-set.md)| Métodos Construtor, Get e Set |
 | [04](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B04-Metodos-atributos-estaticos.md)| Métodos e Atributos Estáticos |
-| [05](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B05-Classes-metodos-abstratos.md)| Classes e Métodos Abstratos |
-| [06](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B06-Array-list.md)| Classe ArrayList |
+| [05](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B05-Heranca.md)| Herança |
+| [06](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B06-Polimorfismo.md)| Polimorfismo |
+| [07](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B07-Associacao.md)| Associação |
+| [08](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B08-Classes-metodos-abstratos.md)| Classes e Métodos Abstratos |
+| [09](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B09-Array-list.md)| Classe ArrayList |
 
 &nbsp;    
 ### III. Exercicios Diversos
 | Link  | Tópico     |
 | :---: | :---		 |
-| [01](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/exercicios/sintaxe-basica)| Exercícios - Sintaxe Básica           |
+| [01](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/exercicios/sintaxe-basica)| Exercícios - Sintaxe Básica |
 | [02](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/exercicios/java-orientado-objetos)| Exercícios - Java Orientado a Objetos |
 
 &nbsp;    
