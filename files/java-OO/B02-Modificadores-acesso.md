@@ -4,16 +4,16 @@
 &nbsp;
      
 &nbsp;  
-**Os modificadores de acesso a uma classe podem ser:**
-&nbsp;
+**Os modificadores de acesso a uma classe podem ser:**  
+&nbsp;     
 
 **- Public**       
- Permite que a classe seja acessada por qualquer parte da aplicação que consiga visualizá-la.
+ Permite que a classe seja acessada por qualquer parte da aplicação que consiga visualizá-la.  
 &nbsp;     
-&nbsp;  
+
 **- Protected**       
- Permite o acesso apenas pela classe, subclasses e pacote.
- &nbsp;     
- &nbsp;  	 
+Permite o acesso apenas pela classe, subclasses e pacote.  
+&nbsp;     
+
 **- Private**       
- Permite acesso apenas dentro da própria classe, proibindo qualquer outro acesso externo.
+Permite acesso apenas dentro da própria classe, proibindo qualquer outro acesso externo.
