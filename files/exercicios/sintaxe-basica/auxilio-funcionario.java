@@ -44,10 +44,12 @@ public class Main {
 
 
 /* Retorno: 
-Qual o salário do funcionário (em R$)? 4000,00
-Quantos dependentes tem o funcionário? 1
-
-Critério de valor de salário: atendido
-Critério de numero de dependentes: não atendido
-Resultado da análise: Este funcionário não tem direito ao recebimento de auxílio.
++-----------------------------------------------------------------------------------+
+| Qual o salário do funcionário (em R$)? 4000,00                                    |
+| Quantos dependentes tem o funcionário? 1                                          |
++-----------------------------------------------------------------------------------+
+| Critério de valor de salário: atendido                                            |
+| Critério de numero de dependentes: não atendido                                   |
+| Resultado da análise: Este funcionário não tem direito ao recebimento de auxílio. |
++-----------------------------------------------------------------------------------+
 */

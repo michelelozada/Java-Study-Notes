@@ -3,7 +3,7 @@
 <h1>Java - Notas de Estudo</h1>
 
 [Sintaxe Básica](https://github.com/michelelozada/Java-Study-Notes#i-sintaxe-basica) &nbsp;•&nbsp; 
-[Classes](https://github.com/michelelozada/Java-Study-Notes#ii-java-orientado-a-objetos) &nbsp;•&nbsp; 
+[Classes](https://github.com/michelelozada/Java-Study-Notes#ii-classes) &nbsp;•&nbsp; 
 [Exercícios Diversos](https://github.com/michelelozada/Java-Study-Notes#iii-exercicios-diversos) &nbsp;•&nbsp;
 [Fontes Consultadas](https://github.com/michelelozada/Java-Study-Notes#iv-fontes-consultadas)
 

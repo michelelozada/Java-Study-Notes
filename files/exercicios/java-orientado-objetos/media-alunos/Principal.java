@@ -15,11 +15,13 @@ public class Principal {
 	}
 }
 /* Retorna:
-Aluno(a): Marcos Lemos
-Curso: Odontologia
-Média final: 7,33
- 
-Aluno(a): Luana Borba
-Curso: Medicina
-Média final: 9,10 
++------------------------+
+| Aluno(a): Marcos Lemos |
+| Curso: Odontologia     |
+| Média final: 7,33      |
++------------------------+
+| Aluno(a): Luana Borba  |
+| Curso: Medicina        |
+| Média final: 9,10      |
++------------------------+
 */

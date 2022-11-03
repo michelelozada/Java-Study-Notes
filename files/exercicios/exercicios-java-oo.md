@@ -1,4 +1,4 @@
-> **Exercícios - Java Orientado a Objetos**     
+> **Exercícios - Classes**     
 > Repositório: Java - Notas de estudo  
 > GitHub: @michelelozada
 &nbsp;

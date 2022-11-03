@@ -46,31 +46,32 @@ public class Principal {
 }
 
 /* Retorna:
-
-- Informações de correntista -
-Nome: Ana Luisa Bastos
-Número da conta: 1234
-Saldo atual: R$ 3000,00
-Limite: R$ 1000,00
- 
-- Informações de correntista -
-Nome: André Lara
-Número da conta: 2345
-Saldo atual: R$ 5000,00
-Limite: R$ 2000,00
- 
-Realizado saque de R$ 500,00
-Titular da conta: Ana Luisa Bastos
-Saldo atualizado: R$ 2500,00
- 
-Realizado depósito de R$ 2000,00
-Titular da conta: Ana Luisa Bastos
-Saldo atualizado: R$ 4500,00
- 
-Transferência de R$ 500,00 efetuada com sucesso
-Titular da conta: Ana Luisa Bastos
-Saldo atualizado: R$ 4000,00
- 
-Titular da conta: André Lara
-Saldo atualizado: R$ 5500,00
++-------------------------------------------------+
+| - Informações de correntista -                  |
+| Nome: Ana Luisa Bastos                          |
+| Número da conta: 1234                           |
+| Saldo atual: R$ 3000,00                         |
+| Limite: R$ 1000,00                              |
++-------------------------------------------------+
+| - Informações de correntista -                  |
+| Nome: André Lara                                |
+| Número da conta: 2345                           |
+| Saldo atual: R$ 5000,00                         |
+| Limite: R$ 2000,00                              |
++-------------------------------------------------+
+| Realizado saque de R$ 500,00                    |
+| Titular da conta: Ana Luisa Bastos              |
+| Saldo atualizado: R$ 2500,00                    |
++-------------------------------------------------+
+| Realizado depósito de R$ 2000,00                |
+| Titular da conta: Ana Luisa Bastos              |
+| Saldo atualizado: R$ 4500,00                    |
++-------------------------------------------------+
+| Transferência de R$ 500,00 efetuada com sucesso |
+| Titular da conta: Ana Luisa Bastos              |
+| Saldo atualizado: R$ 4000,00                    |
+|                                                 |  
+| Titular da conta: André Lara                    |
+| Saldo atualizado: R$ 5500,00                    |
++-------------------------------------------------+
 */
