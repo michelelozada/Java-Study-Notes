@@ -3,7 +3,7 @@
 <h1>Java - Notas de Estudo</h1>
 
 [Sintaxe Básica](https://github.com/michelelozada/Java-Study-Notes#i-sintaxe-basica) &nbsp;•&nbsp; 
-[Java Orientado a Objetos](https://github.com/michelelozada/Java-Study-Notes#ii-java-orientado-a-objetos) &nbsp;•&nbsp; 
+[Classes](https://github.com/michelelozada/Java-Study-Notes#ii-java-orientado-a-objetos) &nbsp;•&nbsp; 
 [Exercícios Diversos](https://github.com/michelelozada/Java-Study-Notes#iii-exercicios-diversos) &nbsp;•&nbsp;
 [Fontes Consultadas](https://github.com/michelelozada/Java-Study-Notes#iv-fontes-consultadas)
 
@@ -30,7 +30,7 @@
 | [17](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A17-Atalhos-eclipse.md)| *(Extra)* Atalhos da IDE Eclipse |
 
 &nbsp;    
-### II. Java Orientado a Objetos
+### II. Classes
 | Link  | Tópico   |
 | :---: | :---	   |
 | [01](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B01-Classes-e-objetos.md)| Classes, Objetos, Atributos e Métodos |
@@ -41,14 +41,14 @@
 | [06](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B06-Polimorfismo.md)| Polimorfismo |
 | [07](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B07-Associacao.md)| Associação |
 | [08](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B08-Classes-metodos-abstratos.md)| Classes e Métodos Abstratos |
-| [09](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B09-Array-list.md)| Classe ArrayList |
+| [09](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B09-Arraylist.md)| Classe ArrayList |
 
 &nbsp;    
 ### III. Exercicios Diversos
 | Link  | Tópico     |
 | :---: | :---		 |
-| [01](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/exercicios/sintaxe-basica)| Exercícios - Sintaxe Básica |
-| [02](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/exercicios/java-orientado-objetos)| Exercícios - Java Orientado a Objetos |
+| [01](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/exercicios/exercicios-sintaxe-basica.md)| Exercícios - Sintaxe Básica |
+| [02](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/exercicios/exercicios-java-oo.md)| Exercícios - Classes |
 
 &nbsp;    
 ### IV. Fontes Consultadas
@@ -56,6 +56,7 @@
 | :---:  | :---	  |
 | [01](https://www.bvirtual.com.br/NossoAcervo/Publicacao/447)| Lógica de Programação e Estrutura de Dados: com<br> aplicações em Java (Sandra Puga e Gerson Rissetti)
 | [02](https://www.alura.com.br/apostila-java-orientacao-objetos)| Java e Orientação a Objetos (apostila da Alura) 
+| [03](https://www.w3schools.com/java/java_encapsulation.asp)| Java Tutorial (W3Schools)
 
 &nbsp;    
 [[Voltar ao topo]](https://github.com/michelelozada/Java-Study-Notes#java---notas-de-estudo)

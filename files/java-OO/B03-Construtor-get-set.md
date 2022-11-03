@@ -1,5 +1,5 @@
 > **Métodos Construtor, Get e Set**     
-> Repositório: Java - Notas de estudo *(Java Orientado a Objetos)*    
+> Repositório: Java - Notas de estudo *(Classes)*    
 > GitHub: @michelelozada
 &nbsp;
      
@@ -53,7 +53,7 @@ public class Principal {
 		aluno1.nota2 = 5.7;
 		aluno1.nota3 = 7.6;
 					
-		System.out.printf("A média ponderada do aluno é: %.2f\n", aluno1.mediaAritmetica());
+		System.out.printf("A média aritmética do aluno é: %.2f\n", aluno1.mediaAritmetica());
 		System.out.printf("A média ponderada do aluno é: %.2f\n", aluno1.mediaPonderada());
 		
 		/* Retorna: 
@@ -63,11 +63,11 @@ public class Principal {
 		
 		// Utilizando o segundo método construtor 
 		Avaliacao aluno2 = new Avaliacao(9.5,8.5,7.9);
-		System.out.printf("A média ponderada do aluno é: %.2f\n", aluno2.mediaAritmetica());
+		System.out.printf("A média aritmética do aluno é: %.2f\n", aluno2.mediaAritmetica());
 		System.out.printf("A média ponderada do aluno é: %.2f", aluno2.mediaPonderada());
 		
 		/* Retorna: 
-		A média ponderada do aluno é: 8,63
+		A média aritmética do aluno é: 8,63
 		A média ponderada do aluno é: 8,46
 		*/
 ```
@@ -85,7 +85,7 @@ public class Avaliacao {
 	}
 	
 	// Criação do segundo método construtor
-	Avaliacao(double nota1, double  nota2, double nota3){
+	Avaliacao(double nota1, double nota2, double nota3){
 		this.nota1 = nota1;
 		this.nota2 = nota2;
 		this.nota3 = nota3;
@@ -98,7 +98,7 @@ public class Avaliacao {
 		
 	// Método para cálculo da média ponderada
 	public double mediaPonderada(){
-		return (nota1 * 2 + nota2 * 3 + nota3 *4) / 9;
+		return (nota1 * 2 + nota2 * 3 + nota3 * 4) / 9;
 	}
 }
 ```

@@ -64,3 +64,13 @@ System.out.println(txt.indexOf("o"));  // Retorna: 4
 String txt = "Hello World";
 System.out.println(txt.lastIndexOf("l"));  // Retorna: 9
 ```
+&nbsp;
+     
+&nbsp;    
+**8 - Checando se uma string está vazia ou não: método `isEmpty()`**    
+```java
+String txt1 = "Hello World";
+String txt2 = "";
+System.out.println(txt1.isEmpty());  // Retorna: false
+System.out.println(txt2.isEmpty());  // Retorna: true
+```

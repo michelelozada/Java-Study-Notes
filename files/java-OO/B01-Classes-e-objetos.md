@@ -1,5 +1,5 @@
 > **Classes, Objetos, Atributos e Métodos**     
-> Repositório: Java - Notas de estudo *(Java Orientado a Objetos)*    
+> Repositório: Java - Notas de estudo *(Classes)*    
 > GitHub: @michelelozada
 &nbsp;
      
