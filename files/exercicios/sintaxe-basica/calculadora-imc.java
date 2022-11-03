@@ -39,6 +39,7 @@ public class Main {
 +-------------------------------------------+
 | Por favor, digite sua altura: 1,56        |
 | Por favor, digite seu peso: 48            |
++-------------------------------------------+
 | Seu Índice de Massa Corpórea (IMC): 19,72 |
 | Sua classificação: Normal                 |
 +-------------------------------------------+
@@ -46,6 +47,7 @@ public class Main {
 +-------------------------------------------+
 | Por favor, digite sua altura: 1,85        |
 | Por favor, digite seu peso: 90            |
++-------------------------------------------+
 | Seu Índice de Massa Corpórea (IMC): 26,30 |
 | Sua classificação: Sobrepeso              |
 +-------------------------------------------+

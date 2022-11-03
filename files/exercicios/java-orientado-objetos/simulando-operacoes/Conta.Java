@@ -1,10 +1,10 @@
 package github.repositorio.estudo.java;
 
 public class Conta {
-	int numero;
-	String titular;
-	double saldo;
-	double limite;
+	public int numero;
+	public String titular;
+	public double saldo;
+	public double limite;
 	
 	// Método construtor	
 	public Conta(int numero, String titular, double saldo, double limite) {
@@ -15,7 +15,7 @@ public class Conta {
 	}
 
 	// Método para sacar valores
-	boolean sacar(double valor) {
+	public boolean sacar(double valor) {
 		if(valor > limite || valor > saldo || valor <= 0) {
 			return false;
 		} else {
@@ -25,7 +25,7 @@ public class Conta {
 	}
 	
 	// Método para depositar valores
-	boolean depositar(double valor) {
+	public boolean depositar(double valor) {
 		if(valor <= 0) {
 			return false;
 		}
@@ -34,7 +34,7 @@ public class Conta {
 	}
 	
 	// Método para transferir valores
-	boolean transferir(Conta destino, double valor) {
+	public boolean transferir(Conta destino, double valor) {
 		if(valor > limite || valor > saldo || valor <= 0) {
 			return false;
 		}
@@ -44,7 +44,7 @@ public class Conta {
 	}
 	
 	// Impressão dos dados das contas
-	void imprimirInformacoes() {
+	public void imprimirInformacoes() {
 		System.out.println("- Informações de correntista -");
 		System.out.println("Nome: " + titular);
 		System.out.println("Número da conta: " + numero);
@@ -54,7 +54,7 @@ public class Conta {
 	}
 	
 	// Impressão dados atualizados após as operações
-	void imprimirSaldo() {
+	public void imprimirSaldo() {
 		System.out.println("Titular da conta: " + titular);
 		System.out.printf("Saldo atualizado: R$ %.2f\n", saldo);
 		System.out.println(" ");

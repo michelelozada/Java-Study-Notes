@@ -149,7 +149,7 @@ System.out.println(numeros);
 &nbsp;  
      
 &nbsp;   
-**13 - Utilizando o método iterator**
+**13 - Utilizando o método iterator**  
 *Somando todos os números de um ArrayList*
 ```java
 

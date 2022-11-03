@@ -2,13 +2,13 @@
 <img src="./files/assets/java.png">
 <h1>Java - Notas de Estudo</h1>
 
-[Sintaxe Básica](https://github.com/michelelozada/Java-Study-Notes#i-sintaxe-basica) &nbsp;•&nbsp; 
+[Fundamentos](https://github.com/michelelozada/Java-Study-Notes#i-fundamentos) &nbsp;•&nbsp; 
 [Classes](https://github.com/michelelozada/Java-Study-Notes#ii-classes) &nbsp;•&nbsp; 
 [Exercícios Diversos](https://github.com/michelelozada/Java-Study-Notes#iii-exercicios-diversos) &nbsp;•&nbsp;
 [Fontes Consultadas](https://github.com/michelelozada/Java-Study-Notes#iv-fontes-consultadas)
 
 &nbsp; 
-### I. Sintaxe Basica
+### I. Fundamentos
 | Link  | Tópico  |
 | :---: | :---	  |
 | [01](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A01-Tipos-de-variaveis.md)| Tipos de Variáveis |
