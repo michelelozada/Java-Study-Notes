@@ -20,6 +20,7 @@
  - Portanto, seu tipo de retorno deve ser igual ao tipo do atributo.  
 
 ```java
+
 public double getValorMensalidade(){
 	return mensalidade; 
 }
@@ -31,6 +32,7 @@ public double getValorMensalidade(){
  - O comando `this`, abaixo, faz referência à própria classe e evita assim ambiguidade quando um parâmetro tem o mesmo nome de um atributo.
  
 ```java
+
 public void setValorMensalidade(float mensalidade){
 	this.mensalidade = mensalidade;
 }
@@ -42,6 +44,7 @@ public void setValorMensalidade(float mensalidade){
 
 ***Classe Principal***
 ```java
+
 /* Calcule a média aritmética e ponderada de um determinado aluno */
 
 import java.util.Scanner;
@@ -75,6 +78,7 @@ public class Principal {
 
 ***Classe Avaliacao***
 ```java
+
 public class Avaliacao {
 	// Declaração dos atributos
 	double nota1, nota2, nota3;

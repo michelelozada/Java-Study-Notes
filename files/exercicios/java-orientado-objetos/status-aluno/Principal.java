@@ -5,11 +5,12 @@ package github.repositorio.estudo.java;
 public class Principal {
 	
 	public static void main(String[] args) {
-		Nota aluno1 = new Nota("Enzo Marques", 8.5, 9, 5);
-		aluno1.imprimirStatus();
+
+		Aluno aluno1 = new Aluno("Enzo Marques", 5, new Nota(8.5, 9));
+		aluno1.imprimirStatusAluno();
 		
-		Nota aluno2 = new Nota("Laura Lemos", 7, 6.5, 8);
-		aluno2.imprimirStatus();
+		Aluno aluno2 = new Aluno("Laura Lemos", 8, new Nota(7, 6.5));
+		aluno2.imprimirStatusAluno();
 	}
 }
 
