@@ -139,37 +139,37 @@ Valor total do pedido: R$ 315,00
 ```java
 
 public class Produto {
-	String nome;
-	int quantidade;
-	float preco;
+	private String nome;
+	private int quantidade;
+	private float preco;
 	
 	// Métodos get e set
-	void setNome(String nome) {
+	public void setNome(String nome) {
 		this.nome = nome;
 	}	
 	
-	String getNome(){
+	public String getNome(){
 		return nome;
 	} 
 	
-	void setQuantidade(int quantidade){
+	public void setQuantidade(int quantidade){
 		this.quantidade = quantidade;
 	}	
 		
-	int getQuantidade(){
+	public int getQuantidade(){
 		return quantidade;
 	}		
 	
-	void setPreco(float preco){
+	public void setPreco(float preco){
 		this.preco = preco;
 	}	
 	
-	float getPreco(){
+	public float getPreco(){
 		return preco;
 	}	
 	
 	// Método para calcular venda com taxa de entrega
-	float calcularValorComFrete(float taxaEntrega) {
+	public float calcularValorComFrete(float taxaEntrega) {
 		return getQuantidade() * getPreco() + taxaEntrega;
 	}
 }
