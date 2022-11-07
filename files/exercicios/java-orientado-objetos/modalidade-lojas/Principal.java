@@ -4,21 +4,12 @@ package github.repositorio.estudo.java;
 
 public class Principal {
 	public static void main(String[] args) {
-		LojaFisica lojafisica1 = new LojaFisica("Loja XPT0", 
-												"111.111.111/0001-00", 
-												new Gerente("Luis Amorim", 
-													        "amorim@xpto.com.br", 
-													        "(41) 99999-999x"), 
-												            "Rua das Flores, 1234", 
-												            "Curitiba");
+		LojaFisica lojafisica1 = new LojaFisica("Loja XPT0", "111.111.111/0001-00", new Gerente("Luis Amorim", "amorim@xpto.com.br", 
+			                     "(41) 99999-999x"), "Rua das Flores, 1234", "Curitiba");
 		lojafisica1.imprimirDadosLoja();
 		
-		LojaVirtual lojavirtual1 = new LojaVirtual("XPT0 Comércio Eletrônico", 
-				                                   "222.222.222/0001-00", 
-				                                   new Gerente("Marcos Bastos", 
-				    		                                   "bastos@xptovirtual.com.br",
-				    		                                   "(41) 98888-888x"), 
-				                                               "www.xptovirtual.com.br");
+		LojaVirtual lojavirtual1 = new LojaVirtual("XPT0 Comércio Eletrônico", "222.222.222/0001-00", new Gerente("Marcos Bastos", 
+			                       "bastos@xptovirtual.com.br", "(41) 98888-888x"), "www.xptovirtual.com.br");
 		lojavirtual1.imprimirDadosLoja();
 	}
 }
