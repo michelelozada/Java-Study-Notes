@@ -4,18 +4,39 @@
 &nbsp;
      
 &nbsp;      
-Evita que - ao ocorrerem eventos ou comportamentos inesperados durante a execução do
-programa - o mesmo seja encerrado abruptamente e sem maiores informações sobre a exceção em questão.
+**Error**  
+ - Referente à plataforma.    
+ - Geralmente não tem tratamento.  
 &nbsp;
-     
+
+**Exception**  
+ - É um evento não esperado que ocorre no sistema durante o tempo de execução.      
+ - Caso não tenha sido realizado o tratamento, a execução do programa será interrompida com a exibição da mensagem do tipo e do ponto em que ocorreu a exceção.    
+ &nbsp;
+
+**Tratamento de exceções**    
+ - Propicia que - ainda que ocorram eventos ou comportamentos inesperados durante a execução do programa - o mesmo continue executando.  
+&nbsp;
+
+**Unchecked exceptions**
+ - Tipo de exceção em que não é obrigatório o tratamento, sendo que o programa irá rodar até o ‘estouro’ da exceção (normalmente referentes a erros de lógica, como divisão por zero, acesso a elementos fora do array, etc.).    
+ - *Classe RunTimeException*  
+&nbsp;
+
+**Checked exceptions**  
+ - Tipo de exceção em que é mandatório o tratamento, pois sem isso o programa não consegue sequer executar.  
+ - *Classe Exception*  
+&nbsp;
+    
 &nbsp;   
 **1 - Os blocos `try`, `catch` e `finally`**
 ```java
+
 public class Main {
 	public static void main(String[] args) {
 		int[] numeros = {10,15,20,25,30};
 			
-		// Trecho no qual uma exceção é esperada
+		// Trecho no qual a exceção pode acontecer
 		try {
 			numeros[5] = 35;
 			System.out.println(numeros[5]);
@@ -44,9 +65,48 @@ public class Main {
 +----------------------------------------------+
 
 ```
+&nbsp;    
+
+```java
+
+/* Tratando uma possível inclusão de zero como divisor */
+
+public class Main {
+	public static void main(String[] args) {
+		boolean continuarLoop = true;
+        Scanner keyboard = new Scanner(System.in);
+        do {
+            // Trecho no qual a exceção pode acontecer
+	        try{
+				System.out.print("Digite o dividendo: ");
+				int numero1 = keyboard.nextInt();
+				System.out.print("Digite o divisor: ");
+				int numero2 = keyboard.nextInt();
+				int divisao = numero1 / numero2;
+				System.out.println("Resultado da divisão: " + divisao);
+				continuarLoop = false;
+	        } 	        
+	        // Lidando com a entrada de 0 como um divisor da operação
+	        catch (ArithmeticException e) {
+				System.out.println("ERRO: o divisor deve ser diferente de zero. Por favor, tente novamente.\n");
+			}
+        } while(continuarLoop);      	
+    }
+}  
+
++-------------------------------------------------------------------------+
+| Digite o dividendo: 10                                                  |
+| Digite o divisor: 0                                                     |
+| ERRO: o divisor deve ser diferente de zero. Por favor, tente novamente. |
++-------------------------------------------------------------------------+
+| Digite o dividendo: 10                                                  |
+| Digite o divisor: 2                                                     |
+| Resultado da divisão: 5                                                 |
++-------------------------------------------------------------------------+
+```
 &nbsp;
      
-&nbsp;   
+&nbsp;    
 **2 - Criação de exceções através do comando `throw`**
 ```java 
 public class Main {
