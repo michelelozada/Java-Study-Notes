@@ -27,11 +27,11 @@ public int somarValores(int valor1, int valor2){
  &nbsp;
  &nbsp;      
  - **(No caso de receber parâmetros)**  
-      O tipo da variável seguido pela variável
+      O tipo da variável deve anteceder a variável
  &nbsp;     
  &nbsp;     
- - **Sempre que for retornado um valor a quem chamou o método:**      
-     Usar o comando `return`  
+ - **Comando `return`**      
+	É utilizado dentro de um método para retornar valores, sendo que após a sua execução o método é interrompido e há retorno do resultado para o trecho do programa que o chamou.
 &nbsp;
 
 &nbsp;    

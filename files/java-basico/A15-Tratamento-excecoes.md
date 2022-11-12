@@ -19,14 +19,17 @@
 &nbsp;
 
 **Unchecked exceptions**
+ - *Classe RunTimeException* 
  - Tipo de exceção em que não é obrigatório o tratamento, sendo que o programa irá rodar até o ‘estouro’ da exceção (normalmente referentes a erros de lógica, como divisão por zero, acesso a elementos fora do array, etc.).    
- - *Classe RunTimeException*  
 &nbsp;
 
 **Checked exceptions**  
- - Tipo de exceção em que é mandatório o tratamento, pois sem isso o programa não consegue sequer executar.  
  - *Classe Exception*  
+ - Tipo de exceção em que é mandatório o tratamento, pois sem isso o programa não consegue sequer executar.  
 &nbsp;
+
+**Comando throw**    
+ - Lança explicitamente uma exceção.
     
 &nbsp;   
 **1 - Os blocos `try`, `catch` e `finally`**

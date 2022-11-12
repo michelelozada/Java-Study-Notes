@@ -8,9 +8,9 @@
  - Interface: List (elementos armazenados de acordo com a sua ordem de inserção e com possibilidade de elementos duplicados).  
  - Pacote: java.util.ArrayList
  - Um array tradicional não pode ter seu tamanho alterado; já o ArrayList permite isso.  
+
 &nbsp;
      
-&nbsp;   
 **Alguns métodos nativos**
 | Método      | Função
 | :---        | :---
@@ -25,7 +25,15 @@
 
 &nbsp;
      
-&nbsp; 	  
+**Métodos de ordenação**
+| Método      | Função
+| :---        | :---
+| shuffle()   | Embaralha de forma aleatória os elementos de um ArrayList
+| sort()      | Ordena os elementos de um ArrayList em ordem crescente
+| reverse()   | Coloca todos os elementos de um ArrayList em ordem reversa
+
+&nbsp;
+     
 **Métodos úteis da classe Collections**
 | Método            | Função
 | :---              | :---	
@@ -33,8 +41,11 @@
 | Collections.max() | Retorna o maior valor de uma list  
 
 &nbsp;
-     
-&nbsp; 	  
+
+:arrow_forward: ***Exemplos***
+
+&nbsp;  
+
 **1 - Inicializando um ArrayList já com elementos**  
 ```java
 

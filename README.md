@@ -41,7 +41,12 @@
 | [06](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B06-Polimorfismo.md)| Polimorfismo |
 | [07](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B07-Associacao.md)| Associação |
 | [08](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B08-Classes-metodos-abstratos.md)| Classes e Métodos Abstratos |
-| [09](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B09-Arraylist.md)| Classe ArrayList |
+| [09](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B09-Metodos-uteis.md)| Métodos úteis |
+| [10](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B10-Collections.md)| Collections |
+| [11](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B11-Arraylist.md)| Classe ArrayList |
+| [12](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B12-Classe-DateTimeFormatter.md)| Classe DateTimeFormatter e LocalDateTime |
+| [13](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B13-Enum.md)| Enumeradores (Enum) |
+| [14](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B14-UML-conceitos.md)| *(Extra)* Alguns Conceitos de UML |
 
 &nbsp;    
 ### III. Exercicios Diversos

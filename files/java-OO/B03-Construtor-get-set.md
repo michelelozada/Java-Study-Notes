@@ -9,6 +9,7 @@
  - É executado apenas uma vez, no momento da instanciação de uma classe/criação de um objeto.  
  - É possível a existência de mais de um método construtor em uma classe, porém sempre com parâmetros diferentes.  
  - Ainda que não tenha sido declarado um método construtor para a classe, existirá um construtor vazio implícito ali.    
+ - Métodos construtores não são herdados: as classes-filhas invocam os métodos da classe-mãe e, se for o caso, incluem ali os atributos de sua própria classe.  
 &nbsp;     
          
 **2 - Métodos Get e Set**
