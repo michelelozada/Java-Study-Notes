@@ -7,9 +7,9 @@
 **HERANÇA**   
  - É um recurso que permite que classes derivadas recebam as características (atributos e métodos) de uma classe base previamente criada.
 &nbsp;  
-- As classes derivadas são chamadas de subclasses ou classes filhas (são herdeiras).
+- As classes derivadas são chamadas de subclasses ou classes filhas *(são herdeiras)*.
 &nbsp;  
-- Já as classes que originaram as subclasses são chamadas de superclasses ou classes mães (são herdadas).  
+- Já as classes que originaram as subclasses são chamadas de superclasses ou classes mães *(são herdadas)*.  
 &nbsp;
      
 &nbsp;  
@@ -39,10 +39,10 @@ class Vendedor extends Funcionario {
 &nbsp;
      
 **Palavra-chave `super`**   
- - Faz referência a uma superclasse.  
+ - Utilizado com atributos ou métodos na classe-filha, faz referência a atributos e métodos de sua classe-mãe.  
 &nbsp;
      
 **Método construtor**   
  - Não é herdado.  
  - As classes-filhas invocam os métodos da classe-mãe e, se for o caso, incluem ali os atributos de sua própria classe.  
- - Representado pela inclusão de `super()` no corpo do método construtor das classes-filhas.
+ - Representado pela inclusão de `super()` no corpo do método construtor da(s) classe(s)-filha(s).

@@ -4,7 +4,7 @@
 &nbsp;
      
 &nbsp;  
-**Principais tipos de relacionamentos no Diagrama de Classes:**  
+:diamond_shape_with_a_dot_inside: **Principais tipos de relacionamentos no Diagrama de Classes:**  
 &nbsp;
 
 - **Associação**  
@@ -31,3 +31,22 @@
 - **Dependência**  
   - Quando há o relacionamento fraco entre duas classes.  
   - No diagrama de classes este tipo de relacionamento é representado por uma linha tracejada com uma seta na ponta numa das extremidades (conectado com a classe dependente).  
+&nbsp;
+     
+&nbsp;    
+:diamond_shape_with_a_dot_inside: **Observações sobre representações gráficas no Diagrama de Classes:**  
+&nbsp;
+- **Classes abstratas**
+  - São representadas da mesma forma que as classes concretas, com a diferença de o nome da classe utilizar a fonte em itálico.   
+&nbsp;
+
+- **Métodos abstratos**
+  - Deve-se utilizar itálico para representá-los.     
+&nbsp;
+  
+- **Atributos e métodos estáticos**  
+  - São representados através do sublinhado.  
+&nbsp;  
+
+- **Constantes**    
+  - São representadas em letras maiúsculas.  

@@ -1,4 +1,4 @@
-> **(Extra) Atalhos da IDE Eclipse**  
+> ***(Extra)* Atalhos da IDE Eclipse**  
 > Repositório: Java - Notas de estudo *(Sintaxe Básica)*    
 > GitHub: @michelelozada
 &nbsp;

@@ -26,8 +26,9 @@
 | [13](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A13-Metodos-strings.md)| Métodos para Strings |
 | [14](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A14-Metodos-matematicos.md)| Métodos Matemáticos |
 | [15](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A15-Tratamento-excecoes.md)| Tratamento de exceções |
-| [16](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A16-Convencoes-codificacao.md)| *(Extra)* Convenções de codificação em Java |
-| [17](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A17-Atalhos-eclipse.md)| *(Extra)* Atalhos da IDE Eclipse |
+| [16](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A16-Glossario-Java.md)| *(Extra)* Pequeno Glossário do Java |
+| [17](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A17-Convencoes-codificacao.md)| *(Extra)* Convenções de codificação em Java |
+| [18](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A18-Atalhos-eclipse.md)| *(Extra)* Atalhos da IDE Eclipse |
 
 &nbsp;    
 ### II. Classes
@@ -44,7 +45,7 @@
 | [09](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B09-Metodos-uteis.md)| Métodos úteis |
 | [10](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B10-Collections.md)| Collections |
 | [11](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B11-Arraylist.md)| Classe ArrayList |
-| [12](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B12-Classe-DateTimeFormatter.md)| Classe DateTimeFormatter e LocalDateTime |
+| [12](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B12-Classe-DateTimeFormatter.md)| Classe LocalDate e LocalDateTime |
 | [13](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B13-Enum.md)| Enumeradores (Enum) |
 | [14](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B14-UML-conceitos.md)| *(Extra)* Alguns Conceitos de UML |
 

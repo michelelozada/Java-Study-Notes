@@ -1,4 +1,4 @@
-> **(Extra) Convenções de Codificação em Java**  
+> ***(Extra)* Convenções de Codificação em Java**  
 > Repositório: Java - Notas de estudo *(Sintaxe Básica)*       
 > GitHub: @michelelozada
 &nbsp;

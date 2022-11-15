@@ -21,8 +21,8 @@ public abstract class NomeDaClasse {
      
 &nbsp;    
 **2 - Método abstrato**  
- - Só pode ser declarado dentro de classes abstratas, sendo que só pode ser realmente implementado em classes filhas.  
- - Dessa forma, um método abstrato é composto pela assinatura do método e não tem parâmetros de entrada.  
+ - Pode ser declarado apenas dentro de classes abstratas, sendo que só pode ser realmente implementado nas classes filhas.  
+ - Dessa forma, um método abstrato é composto apenas pela assinatura do método e não tem parâmetros de entrada.  
 &nbsp;    
 
 :arrow_forward: ***Declarando um método abstrato - exemplos***  
