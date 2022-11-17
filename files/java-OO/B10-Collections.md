@@ -18,7 +18,7 @@
 
 | Nome  | Interface         | Definição geral
 | :---  | :---              | :---
-| List  | *java.util.List*  | Lista de elementos ordenada (de acordo com ordem em que foram adicionados) e que permite sua repetição 
+| List  | *java.util.List*  | Lista de elementos armazenada de acordo com ordem em que estes foram adicionados e que permite repetição de elementos
 | Set   | *java.util.Set*   | Lista de elementos únicos (pois não admite sua repetição)
 | Map   | *java.util.Map*   | Lista com chave e valor, sendo que a chave deve ser única  
 | Queue | *java.util.Queue* | Estrutura de dados linear que segue o princípio First-In, First-Out
@@ -61,9 +61,9 @@
 
 | Classe        | Definição geral |
 | :---          | :---            |
-| HashSet       | "Conjunto de elementos organizados por meio de uma função Hash"  
-| LinkedHashSet | 
-| TreeSet       | "Baseada em árvore binária de busca balanceada"   
+| HashSet       | Elementos da lista respeitam ordem aleatória (sem repetição de elementos)  
+| LinkedHashSet | Elementos da lista respeitam a ordem de inserção (sem repetição de elementos)    
+| TreeSet       | Elementos da lista respeitam a ordem crescente/natural (sem repetição de elementos). Necessária interface `Comparable`.     
 
 &nbsp; 
 
@@ -83,9 +83,9 @@
 | Classe        | Definição geral |
 | :---          | :---            |
 | Hashtable     |   
-| HashMap       | "Indexados por chaves. Possível mapear um ID de um tipo qualquer."  |
-| LikedHashMap  | "Combinação de tabela de hashing e lista ligada" |
-| TreeMap	    | "Baseada em árvore binária de busca balanceada"  |
+| HashMap       | Elementos da lista ordenados de forma aleatória 
+| LikedHashMap  | Elementos da lista respeitam a ordem de inserção 
+| TreeMap	    | Elementos da lista respeitam a ordem natural, dada pela chave  
 
 &nbsp; 	   	
  

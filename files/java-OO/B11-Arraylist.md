@@ -4,41 +4,36 @@
 &nbsp;
      
 &nbsp;    
- **ARRAYLIST**
- - Interface: List (elementos armazenados de acordo com a sua ordem de inserção e com possibilidade de elementos duplicados).  
- - Pacote: java.util.ArrayList
- - Um array tradicional não pode ter seu tamanho alterado; já o ArrayList permite isso.  
+ **ARRAYLIST**  
+ - **Interface:** *List*    
+ - **Pacote:** *java.util.ArrayList*    
+ - Caracterizado por ser uma lista com ordenação de acordo com a inserção dos elementos, sendo permitida a repetição de elementos ali.   
+ - Um array tradicional não pode ter seu tamanho alterado; já o ArrayList permite isso.    
 
 &nbsp;
      
 **Alguns métodos nativos**
 | Método      | Função
 | :---        | :---
-| add()       | Adiciona um elemento a um list (se usado com 2 argumentos, o primeiro indica a posição onde será feita a adição do elemento)
-| clear()     | Apaga uma list
-| constains() | Examina se um elemento consta em uma list
+| add()       | Adiciona um elemento a um ArrayList (se usado com 2 argumentos, o primeiro indica a posição onde será feita a adição do elemento)
+| clear()     | Apaga um ArrayList
+| contains()  | Examina se um elemento consta em um ArrayList
 | get()       | Retorna um elemento, informada a posição em que ele se encontra
-| indexOf()   | Exibe a posição de um elemento dentro de uma list 
-| remove()    | Remove um elemento de uma list (pode ser informada a posição ou o elemento)
-| set()       | Susbtitui elementos em uma list (o primeiro argumento é a posição onde será feita a substituição do elemento)
-| size()      | Retorna a quantidade de elementos de uma list
-
-&nbsp;
-     
-**Métodos de ordenação**
-| Método      | Função
-| :---        | :---
-| shuffle()   | Embaralha de forma aleatória os elementos de um ArrayList
-| sort()      | Ordena os elementos de um ArrayList em ordem crescente
-| reverse()   | Coloca todos os elementos de um ArrayList em ordem reversa
+| indexOf()   | Exibe a posição/índice de um elemento dentro de um ArrayList 
+| remove()    | Remove um elemento de um ArrayList (pode ser informada a posição ou o elemento)
+| set()       | Susbtitui elementos em um ArrayList (o primeiro argumento é a posição onde será feita a substituição do elemento)
+| size()      | Retorna a quantidade de elementos de um ArrayList
 
 &nbsp;
      
 **Métodos úteis da classe Collections**
-| Método            | Função
-| :---              | :---	
-| Collections.min() | Retorna o menor valor de uma list
-| Collections.max() | Retorna o maior valor de uma list  
+| Método    | Função
+| :---      | :---	
+| max()     | Retorna o maior valor de uma List  
+| min()     | Retorna o menor valor de uma List
+| reverse() | Ordena todos os elementos de uma List em ordem reversa
+| shuffle() | Ordena de forma aleatória os elementos de uma List
+| sort()    | Ordena os elementos de uma List em ordem crescente/natural
 
 &nbsp;
 
@@ -49,7 +44,7 @@
 **1 - Inicializando um ArrayList já com elementos**  
 ```java
 
-List<Integer> numeros = new ArrayList<>(Arrays.asList(1,5,9,7,12,2,2));
+List<Integer> numeros = new ArrayList<>(Arrays.asList(1, 5, 9, 7, 12, 2, 2));
 ```
 &nbsp; 	
 
@@ -175,6 +170,7 @@ while(iterator.hasNext()) {
 	soma += next;
 }
 System.out.println(soma);
+
 // Retorna: 36
 ```
 &nbsp;
@@ -201,7 +197,7 @@ System.out.println(numeros.toString());
 &nbsp;
      
 &nbsp;    
-**15 - Percorrendo um array atarvés da estrutura foreach**
+**15 - Percorrendo um array através da estrutura foreach**
 ```java
 
 List<Integer> numeros = new ArrayList<>(Arrays.asList(7, 8, 9, 5, 7));
