@@ -46,7 +46,7 @@
 | [10](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B10-Collections.md)| Collections |
 | [11](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B11-Arraylist.md)| Classe ArrayList |
 | [12](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B12-Hashset.md)| Classe HashSet |
-| [13](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B13-HashMap.md)| Classe HashMap |
+| [13](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B13-Hashmap.md)| Classe HashMap |
 | [14](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B14-Classe-DateTimeFormatter.md)| Classe LocalDate e LocalDateTime |
 | [15](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B15-Enum.md)| Enumeradores (Enum) |
 | [16](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B16-UML-conceitos.md)| *(Extra)* Alguns Conceitos de UML |
