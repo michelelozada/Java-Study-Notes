@@ -1,4 +1,4 @@
-> **ArrayList**     
+> **Classe ArrayList**     
 > Repositório: Java - Notas de estudo *(Classes)*    
 > GitHub: @michelelozada
 &nbsp;
@@ -55,7 +55,7 @@ List<Integer> numeros = new ArrayList<>();
 ```
 &nbsp; 	  
 
-**3 - Adicionando elementos à ArrayList acima**
+**3 - Adicionando elementos ao ArrayList acima**
 ```java
 
 numeros.add(7);
@@ -117,6 +117,7 @@ System.out.println(Collections.min(numeros));  // Retorna: 5
 
 System.out.println(numeros.toString());
 // Retorna: [7, 8, 9, 5, 7]
+
 numeros.add(2,4);
 System.out.println(numeros.toString());
 // Retorna: [7, 8, 4, 9, 5, 7]
@@ -128,6 +129,7 @@ System.out.println(numeros.toString());
 
 System.out.println(numeros.toString());
 // Retorna: [7, 8, 9, 5, 7]
+
 numeros.set(numeros.indexOf(8),3);
 System.out.println(numeros);
 // Retorna: [7, 3, 9, 5, 7]
@@ -139,6 +141,7 @@ System.out.println(numeros);
 
 System.out.println(numeros);
 // Retorna: [7, 8, 9, 5, 7]
+
 numeros.remove(1);
 System.out.println(numeros);
 // Retorna: [7, 9, 5, 7]
@@ -150,13 +153,14 @@ System.out.println(numeros);
 
 numeros.clear();
 System.out.println(numeros);
+
 // Retorna: []
 ```
 &nbsp;  
      
 &nbsp;   
 **13 - Utilizando o método iterator**  
-*Somando todos os números de um ArrayList*
+*Para somar todos os números de um ArrayList*
 ```java
 
 System.out.println(numeros);
@@ -170,14 +174,13 @@ while(iterator.hasNext()) {
 	soma += next;
 }
 System.out.println(soma);
-
 // Retorna: 36
 ```
 &nbsp;
      
 &nbsp;    
 **14 - Utilizando o método iterator**  
-*Removendo números menores que 8 da ArrayList*
+*Para remover os números menores que 8 do ArrayList*
 ```java
 
 System.out.println(numeros);
@@ -205,4 +208,6 @@ List<Integer> numeros = new ArrayList<>(Arrays.asList(7, 8, 9, 5, 7));
 for(Integer num : numeros){
 	System.out.print(num + " ");
 }
+
+// Retorna: 7 8 9 5 7 
 ```

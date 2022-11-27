@@ -25,10 +25,11 @@
 | [12](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A12-Metodos.md)| Métodos |
 | [13](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A13-Metodos-strings.md)| Métodos para Strings |
 | [14](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A14-Metodos-matematicos.md)| Métodos Matemáticos |
-| [15](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A15-Tratamento-excecoes.md)| Tratamento de exceções |
-| [16](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A16-Glossario-Java.md)| *(Extra)* Pequeno Glossário do Java |
-| [17](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A17-Convencoes-codificacao.md)| *(Extra)* Convenções de codificação em Java |
-| [18](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A18-Atalhos-eclipse.md)| *(Extra)* Atalhos da IDE Eclipse |
+| [15](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A15-Metodos-arrays.md)| Métodos de Arrays |
+| [16](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A16-Tratamento-excecoes.md)| Tratamento de exceções |
+| [17](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A17-Glossario-Java.md)| *(Extra)* Pequeno Glossário do Java |
+| [18](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A18-Convencoes-codificacao.md)| *(Extra)* Convenções de codificação em Java |
+| [19](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A19-Atalhos-eclipse.md)| *(Extra)* Atalhos da IDE Eclipse |
 
 &nbsp;    
 ### II. Classes
@@ -42,14 +43,15 @@
 | [06](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B06-Polimorfismo.md)| Polimorfismo |
 | [07](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B07-Associacao.md)| Associação |
 | [08](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B08-Classes-metodos-abstratos.md)| Classes e Métodos Abstratos |
-| [09](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B09-Metodos-uteis.md)| Métodos úteis |
+| [09](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B09-Metodos-uteis.md)| Métodos equals(), toString() e hashCode() |
 | [10](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B10-Collections.md)| Collections |
 | [11](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B11-Arraylist.md)| Classe ArrayList |
 | [12](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B12-Hashset.md)| Classe HashSet |
 | [13](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B13-Hashmap.md)| Classe HashMap |
-| [14](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B14-Classe-DateTimeFormatter.md)| Classe LocalDate e LocalDateTime |
-| [15](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B15-Enum.md)| Enumeradores (Enum) |
-| [16](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B16-UML-conceitos.md)| *(Extra)* Alguns Conceitos de UML |
+| [14](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B14-Metodos-uteis-collections.md)| Métodos e Padrões para Collections |
+| [15](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B15-Classe-DateTimeFormatter.md)| Classe LocalDate e LocalDateTime |
+| [16](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B16-Enum.md)| Enumeradores (Enum) |
+| [17](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B17-UML-conceitos.md)| *(Extra)* Alguns Conceitos de UML |
 
 &nbsp;    
 ### III. Exercicios Diversos

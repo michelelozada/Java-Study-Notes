@@ -1,4 +1,4 @@
-> **HashMap**     
+> **Classe HashMap**     
 > Repositório: Java - Notas de estudo *(Classes)*    
 > GitHub: @michelelozada
 &nbsp;
@@ -13,15 +13,15 @@
 &nbsp;
 
 **Alguns métodos nativos**
-| Método        | Observações
-| :---          | :---
-| clear()       | Apaga um HashMap
-| containsKey() | 
-| entrySet()    | Retorno: um Set de elementos do tipo entry
-| get()         | Retorna um valor, tendo sido informada a sua chave
-| keySet()      | Retorno: um Set
-| put()         | 
-| values()      | Retorno: uma Collection
+| Método           | Observações
+| :---             | :---
+| clear()          | Apaga um HashMap
+| containsKey()    | 
+| entrySet()       | Retorno: um Set de elementos do tipo entry
+| get()            | Retorna um valor, tendo sido informada a sua chave
+| keySet()         | Retorno: um Set
+| put(*key,value*) | Adiciona ou atualiza um elemento em um Map  
+| values()         | Retorno: uma Collection
 
 &nbsp;
 

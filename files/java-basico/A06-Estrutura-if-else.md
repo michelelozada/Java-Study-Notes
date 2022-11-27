@@ -22,6 +22,20 @@ System.out.println("Status: " + status);
 // Status: Aluno(a) ficou para recuperacao.
 ```		
 &nbsp;
+&nbsp;  
+Observação: Quando os blocos if e/ou else possuírem apenas uma instrução, podem ser suprimidas as chaves. *(Para mais de uma instrução, a utilização das chaves é mandatória!)*.   
+```java
+
+String status;
+int media = 65;
+
+if(media >= 70)
+    status = "Aluno(a) foi aprovado(a) no curso.";
+else 
+    status = "Aluno(a) ficou para recuperacao.";
+System.out.println("Status: " + status);	
+```
+&nbsp;
      
 &nbsp;         
 **2 - Utilizando alternativamente o operador ternário para o exemplo acima**

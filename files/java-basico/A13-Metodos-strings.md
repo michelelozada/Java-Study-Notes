@@ -4,7 +4,7 @@
 &nbsp;
      
 &nbsp;           
-**1 - Acrescentando uma string ao final de outra string: método `concat()`**
+**1 - Acrescentando uma string ao final de outra string: método `concat()`**  
 ```java
 
 String nome = "Harry";
@@ -16,8 +16,17 @@ System.out.println("O nome completo eh " + nomeCompleto);
 ```
 &nbsp;
      
+&nbsp; 
+**2 - Verificando se uma string contém uma sequência de valores especificados: método `constains()`**    
+```java
+String nome1 = "Victoria";
+String nome2 = "Victor";
+System.out.println(nome1.contains(nome2)); // Retorna: true
+```
+&nbsp;
+     
 &nbsp;    
-**2 - Comparando duas strings: método `equals()`**
+**3 - Comparando duas strings: método `equals()`**  
 ```java
 String nome1= "Victoria";
 String nome2= "Victor";
@@ -26,7 +35,7 @@ System.out.println(nome1.equals(nome2)); // Retorna: false
 &nbsp;
      
 &nbsp;    
-**3 - Comparando se duas strings são iguais, ignorando diferenças entre maiúsculas e minúsculas: método `equalsIgnoreCase()`**
+**4 - Comparando se duas strings são iguais, ignorando diferenças entre maiúsculas e minúsculas: método `equalsIgnoreCase()`**  
 ```java
 String fruta1 = "laranja";
     	
@@ -37,7 +46,7 @@ System.out.println(fruta1.equals(fruta2)); // Retorna: false
 &nbsp;
      
 &nbsp;    
-**4 - Obtendo o comprimento de uma string: método `length()`**
+**5 - Obtendo o comprimento de uma string: método `length()`**  
 ```java
 String nome = "Mariana";
 int tamanhoString = nome.length();
@@ -46,7 +55,7 @@ System.out.println(tamanhoString);  // Retorna: 7
 &nbsp;
      
 &nbsp;       
-**5 - Convertendo uma string para maiúsculas: método `toUpperCase()`**
+**6 - Convertendo uma string para maiúsculas: método `toUpperCase()`**  
 ```java
 String txt = "hello world";
 System.out.println(txt.toUpperCase());  // Retorna: HELLO WORLD
@@ -54,7 +63,7 @@ System.out.println(txt.toUpperCase());  // Retorna: HELLO WORLD
 &nbsp;
      
 &nbsp;     
-**6 - Convertendo uma string para minúsculas: método `toLowerCase()`**
+**7 - Convertendo uma string para minúsculas: método `toLowerCase()`**  
 ```java
 String txt = "HELLO WORLD";
 System.out.println(txt.toLowerCase());  // Retorna: hello world
@@ -62,7 +71,7 @@ System.out.println(txt.toLowerCase());  // Retorna: hello world
 &nbsp;
      
 &nbsp;      
-**7 - Retornando um caractere através do índice informado: método `charAt()`**
+**8 - Retornando um caractere através do índice informado: método `charAt()`**  
 ```java
 
 String fruta = "framboesa";
@@ -76,7 +85,7 @@ System.out.println(caractere); // Retorna: a
 &nbsp;
      
 &nbsp;    
-**8 - Procurando pela primeira ocorrência de um caracter/caracteres em uma string: método `indexOf()`**
+**9 - Procurando pela primeira ocorrência de um caracter/caracteres em uma string: método `indexOf()`**  
 ```java
 String txt = "Hello World";
 System.out.println(txt.indexOf("o"));  // Retorna: 4
@@ -84,7 +93,7 @@ System.out.println(txt.indexOf("o"));  // Retorna: 4
 &nbsp;
      
 &nbsp;     
-**9 - Procurando pela última ocorrência de um caracter/caracteres em uma string: método `lastIndexOf()`**
+**10 - Procurando pela última ocorrência de um caracter/caracteres em uma string: método `lastIndexOf()`**  
 ```java
 String txt = "Hello World";
 System.out.println(txt.lastIndexOf("l"));  // Retorna: 9
@@ -92,7 +101,7 @@ System.out.println(txt.lastIndexOf("l"));  // Retorna: 9
 &nbsp;
      
 &nbsp;     
-**10 - Checando se uma string está vazia ou não: método `isEmpty()`**
+**11 - Checando se uma string está vazia ou não: método `isEmpty()`**  
 ```java
 String txt1 = "Hello World";
 String txt2 = "";
@@ -102,7 +111,7 @@ System.out.println(txt2.isEmpty());  // Retorna: true
 &nbsp;
      
 &nbsp;     
-**11 - Dividindo uma string e armazenando os caractres num array: metodo `split();`**
+**12 - Dividindo uma string e armazenando seus caracteres num array: metodo `split();`**  
 ```java
 String palavra = "Curitiba";
 String[] arrayDeLetras = palavra.split("");

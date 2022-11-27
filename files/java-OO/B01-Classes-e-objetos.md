@@ -4,34 +4,66 @@
 &nbsp;
      
 &nbsp;  
-**Classe**  
- - É o projeto de um objeto.  
- - Define os atributos *(as propriedades)* e os métodos *(ações ou eventos)* comuns aos objetos que serão criados a partir dela.  
-&nbsp;    	
+:small_blue_diamond: **Classe**  
+ É o projeto de um objeto.  
+ Define os atributos *(as propriedades)* e os métodos *(ações ou eventos)* comuns aos objetos que serão criados a partir dela.  
 
-**Objeto**     
- - É criado a partir da instanciação de uma classe.  
- - É uma entidade concreta ou abstrata do mundo real.  
- - É único, sendo que cada objeto criado a partir de uma mesma classe estará alocado em um espaço diferente da memória.    
-&nbsp;    
+<h1></h1>
+&nbsp; 
 
-**Atributo**
- - Variável que descreve o objeto e que está declarada dentro do corpo da classe.  
-&nbsp;   
-
-**Método**
- - "Função associada à classe que executa relativamente aos objetos aos quais está ligada".  
- &nbsp;    
-
-**Estado**
- - Valores dos atributos de um objeto em um determinado momento do tempo.   
+:small_blue_diamond: **Objeto**     
+ É criado a partir da instanciação de uma classe.  
+ É uma entidade concreta ou abstrata do mundo real.  
+ É único, sendo que cada objeto criado a partir de uma mesma classe estará alocado em um espaço diferente da memória.    
 &nbsp;
-     
+&nbsp;     
+***Exemplo:***
+&nbsp;
+
+```java
+public class Principal {
+	
+	public static void main(String[] args) {
+		Aluno aluno1 = new Aluno();
+	}
+}	
+```
+
+**`Aluno aluno1`**  
+ . É a declaração do objeto.         
+ . A variável `aluno1` é a referência ao objeto instanciado da classe Aluno.          
 &nbsp;  
-**:arrow_forward: Exemplo:**  
+
+**`new Aluno();`**    
+ . É a criação do objeto.        
+ . Esta instrução cria em memória um novo objeto da classe Aluno que passa a ser referenciado pela variável `aluno1`.      
+&nbsp;  
+
+*Portanto, o objeto é a instância de uma classe, ou seja, é a região da memória que foi alocada quando houve a sua criação.*  
+
+<h1></h1>
+&nbsp; 
+
+:small_blue_diamond: **Atributo**  
+Variável que descreve características de um objeto.  
+   
+<h1></h1>
+&nbsp; 
+
+:small_blue_diamond: **Método**  
+Ações ou serviços que um objeto pode realizar.     
+
+<h1></h1>
+&nbsp; 
+
+:small_blue_diamond: **Estado**  
+Valores dos atributos de um objeto em um determinado momento do tempo.   
+&nbsp;
+&nbsp;  
+**Exemplo:**  
 &nbsp;
 
-***Classe Principal***
+*Classe Principal*
 ```java
 public class Principal {
 	public static void main(String[] args) {
@@ -51,7 +83,7 @@ public class Principal {
 ```
 &nbsp;
 
-***Classe Aluno***
+*Classe Aluno*
 ```java
 public class Aluno {
 	// Definindo os atributos

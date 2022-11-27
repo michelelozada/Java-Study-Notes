@@ -14,12 +14,14 @@ public int somarValores(int valor1, int valor2){
 	return valor 1 + valor 2;
 };
 ```
+&nbsp;
+
 - **Modificador de acesso:**      
       `public`, `protected` ou `private`
 &nbsp;     
 &nbsp;     
  - **Tipo do retorno esperado:**         
-      `int`, `String`, `float`, etc. ou `void` para quando não possui valor de retorno
+      `int`, `String`, `float`, etc. ou `void` para quando não possui valor de retorno (similar a uma procedure)
  &nbsp;     
  &nbsp;     
  - **Nome do método:**         
@@ -30,11 +32,19 @@ public int somarValores(int valor1, int valor2){
       O tipo da variável deve anteceder a variável
  &nbsp;     
  &nbsp;     
- - **Comando `return`**      
-	É utilizado dentro de um método para retornar valores, sendo que após a sua execução o método é interrompido e há retorno do resultado para o trecho do programa que o chamou.
-&nbsp;
+ - **Instrução `return`**      
+	Utilizada dentro de um método para retornar valores, sendo que após a sua execução o método é interrompido e há retorno do resultado para o trecho do programa que o chamou. Mandatória em métodos que não sejam do tipo `void`.
+ &nbsp;     
+ &nbsp;     
+ - **Assinatura de um método**    
+    Composta pelo nome do método e por sua lista de parâmetros
+ &nbsp;     
+ &nbsp;
+ - **Sobrecarga de Métodos (*a.k.a. Overload*)**  
+    São métodos que possuem o mesmo nome, porém parâmetros diferentes (seja em termos de tipos, ordem/disposição ou mesmo da sua existência ali ou não).
+ &nbsp;
 
-&nbsp;    
+ &nbsp;    
 **2 - Declarando um método sem retorno**
 ```java
 

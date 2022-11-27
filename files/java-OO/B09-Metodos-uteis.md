@@ -1,4 +1,4 @@
-> **Métodos úteis**     
+> **Métodos equals(), toString() e hashCode()**     
 > Repositório: Java - Notas de estudo *(Classes)*    
 > GitHub: @michelelozada
 &nbsp;
@@ -29,11 +29,11 @@ public class Principal{
 ```
 &nbsp;  
 
-**Método `hashCode()`**    
-- "Gera um código para tabela Hash, que serve principalmente para mapearmos dados na memória em posições únicas".     
-&nbsp;  
-
 **Método `toString()`**    
  - Sempre que se deseja imprimir um objeto em Java, o método `toString()` é invocado, sendo que ele imprime, por padrão, o nome da classe seguido de um hashcode.  
  - Portanto, para que o valor desejado seja impresso corretamente, é necessário implementar o método `toString()`na respectiva classe e fazer o 
 `@Override` deste método.   
+&nbsp;  
+
+**Método `hashCode()`**    
+- "Gera um código para tabela Hash, que serve principalmente para mapearmos dados na memória em posições únicas".     

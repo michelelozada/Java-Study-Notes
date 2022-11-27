@@ -4,42 +4,44 @@
 &nbsp;
      
 &nbsp;      
-**Error**  
- - Referente à plataforma.    
- - Geralmente não tem tratamento.  
+**Error**    
+ - Referente à plataforma.        
+ - Geralmente não tem tratamento.    
 &nbsp;
 
-**Exception**  
- - É um evento não esperado que ocorre no sistema durante o tempo de execução.      
- - Caso não tenha sido realizado o tratamento, a execução do programa será interrompida com a exibição da mensagem do tipo e do ponto em que ocorreu a exceção.    
+**Exception**    
+ - É um evento não esperado que ocorre no sistema durante o tempo de execução.        
+ - Caso não tenha sido realizado o tratamento, a execução do programa será interrompida com a exibição da mensagem do tipo e do ponto em que ocorreu a exceção.      
  &nbsp;
 
-**Tratamento de exceções**    
- - Propicia que - ainda que ocorram eventos ou comportamentos inesperados durante a execução do programa - o mesmo continue executando.  
+**Tratamento de exceções**      
+ - Propicia que - ainda que ocorram eventos ou comportamentos inesperados durante a execução do programa - o mesmo continue executando.    
 &nbsp;
 
-**Unchecked exceptions**
- - *Classe RunTimeException* 
- - Tipo de exceção em que não é obrigatório o tratamento, sendo que o programa irá rodar até o ‘estouro’ da exceção (normalmente referentes a erros de lógica, como divisão por zero, acesso a elementos fora do array, etc.).    
+**Unchecked exceptions**  
+ - *Classe RunTimeException*   
+ - Tipo de exceção em que não é obrigatório o tratamento, sendo que o programa irá rodar até o ‘estouro’ da exceção (normalmente referentes a erros de lógica, como divisão por zero, acesso a elementos fora do array, etc.).      
 &nbsp;
 
-**Checked exceptions**  
- - *Classe Exception*  
- - Tipo de exceção em que é mandatório o tratamento, pois sem isso o programa não consegue sequer executar.  
+**Checked exceptions**    
+ - *Classe Exception*    
+ - Tipo de exceção em que é mandatório o tratamento, pois sem isso o programa não consegue sequer executar.    
 &nbsp;
+   
+**Os blocos `try`, `catch` e `finally`**  
+ - **Try:** Bloco do código no qual uma ou mais exceções podem vir a acontecer.   
+ - **Catch:**  Bloco no qual haverá o tratamento das exceções – específicas ou genéricas - que possam vir a acontecer.  
+ - **Finally:** Bloco cujas instruções serão sempre executadas, havendo ou não exceções.  
 
-**Comando throw**    
- - Lança explicitamente uma exceção.
+:arrow_forward: ***Exemplo***
+&nbsp;    
     
-&nbsp;   
-**1 - Os blocos `try`, `catch` e `finally`**
 ```java
 
 public class Main {
 	public static void main(String[] args) {
 		int[] numeros = {10,15,20,25,30};
 			
-		// Trecho no qual a exceção pode acontecer
 		try {
 			numeros[5] = 35;
 			System.out.println(numeros[5]);
@@ -109,8 +111,12 @@ public class Main {
 ```
 &nbsp;
      
+**O Comando `throw`**      
+ - Comando que lança explicitamente uma exceção.  
+
+:arrow_forward: ***Exemplo***
 &nbsp;    
-**2 - Criação de exceções através do comando `throw`**
+
 ```java 
 public class Main {
 	public static void main(String[] args) {

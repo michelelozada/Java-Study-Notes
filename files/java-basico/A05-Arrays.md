@@ -50,3 +50,14 @@ for(int n: numero) {
 
 // Retorna: Os valores do array sao: 15 20 30 
 ```
+&nbsp;
+&nbsp;  
+**Arrays Multidimensionais**  
+```java
+
+int[][] numeros = {{5, 10, 15, 20}, {3, 6, 9, 12}, {4, 8, 12, 16}};
+	System.out.println(numeros[2][2]);
+}
+
+// Retorna: 12
+```

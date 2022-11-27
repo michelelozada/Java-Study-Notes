@@ -17,24 +17,25 @@
 ### I - Tecnologia Java
 
 - **Bytecode**  
- Formato de código do arquivo gerado a partir da compilação do código Java.
-&nbsp;
-     
-&nbsp;  
-- **JVM**   
-	Sigla para Máquina Virtual Java.
-	Interpreta e executa os arquivos compilados/código Bytecode Java.
+ Formato de código do arquivo gerado a partir da compilação do código-fonte (*.java*). Sua extensão é *.class*.    
 &nbsp;
      
 &nbsp;  
 - **JDK**   
-	Sigla para Kit de Desenvolvimento Java.
-	Conjunto de bibliotecas, compiladores e demais ferramentas para o desenvolvimento de programas Java.
+	Sigla para Java Development Kit.  
+	Conjunto de bibliotecas, compiladores e demais ferramentas responsável por compilar código-fonte (*.java*) em bytecode (*.class*).  
 &nbsp;
      
-&nbsp;  
+&nbsp;    
+- **JVM**   
+	Sigla para *Java Virtual Machine*.  
+	Interpreta e executa os arquivos compilados/bytecode (.class).  
+&nbsp;
+     
+&nbsp;    
 - **JRE**  
-	Conjunto de softwares necessários para executar programas feitos em Java.
+	Sigla para *Java Runtime Environment*.  
+	"Ambiente de Execução do Java que fornece as bibliotecas padrões do Java para o JDK compilar o seu código e para a JVM executar o seu programa".
 &nbsp;
      
 &nbsp;  
@@ -61,7 +62,7 @@
      
 &nbsp;    
 - **Packages**   
-   Servem para definir as responsabilidades de cada grupo de classes.
+   Servem para separar e definir as responsabilidades de cada grupo de classes.
 &nbsp;
      
 &nbsp;  
@@ -70,7 +71,15 @@
 - **Compilação**  
   Processo que transforma o código de alto nível escrito em código de máquina/binário.    
 &nbsp;
-  
+
+- **Debug (aka *Depuração*)**  
+  Processo de identificação e remoção (normalmente através da execução linha a linha de partes de um programa) de problemas no código-fonte de um aplicativo.  
+&nbsp;
+
+- **Iteração**  
+Repetir a execução de um bloco de comandos infinitamente ou até que uma determinada condição seja alcançada.  
+&nbsp;
+
 - **Interpretação**  
     "O processo de Interpretação toma tempo de processamento e no caso geral um programa compilado será mais rápido e melhor otimizado do que seu equivalente interpretado".    
 &nbsp;

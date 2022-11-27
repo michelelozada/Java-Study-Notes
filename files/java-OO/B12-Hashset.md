@@ -1,4 +1,4 @@
-> **HashSet**     
+> **Classe HashSet**     
 > Repositório: Java - Notas de estudo *(Classes)*    
 > GitHub: @michelelozada
 &nbsp;

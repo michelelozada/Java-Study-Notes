@@ -12,8 +12,8 @@
 &nbsp;     
 
 **- Protected**       
-Permite o acesso apenas pela classe, subclasses e pacote.  
+Permite o acesso apenas pela classe onde foi definido, suas subclasses e pacote correspondente.  
 &nbsp;     
 
 **- Private**       
-Permite acesso apenas dentro da própria classe, proibindo qualquer outro acesso externo.
+Permite acesso apenas dentro da própria classe onde foi definido, proibindo qualquer outro acesso externo.
