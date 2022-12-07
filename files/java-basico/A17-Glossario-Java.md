@@ -7,9 +7,9 @@
 <div align="center">
 <h3>PEQUENO GLOSSÁRIO DO JAVA</h3>
 
-[Tecnologia Java](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A16-Glossario-Java.md#i---tecnologia-java) &nbsp;•&nbsp;
-[Termos Java](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A16-Glossario-Java.md#ii---termos-java) &nbsp;•&nbsp;
-[Termos Computacionais](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A16-Glossario-Java.md#iii---termos-computacionais)  
+[Tecnologia Java](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A17-Glossario-Java.md#i---tecnologia-java) &nbsp;•&nbsp;
+[Termos Java](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A17-Glossario-Java.md#ii---termos-java) &nbsp;•&nbsp;
+[Termos Computacionais](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A17-Glossario-Java.md#iii---termos-computacionais)  
 </div>
 &nbsp;
      
