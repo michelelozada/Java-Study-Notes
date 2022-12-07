@@ -64,9 +64,11 @@
 ### IV. Fontes Consultadas
 | Link   | Título |
 | :---:  | :---	  |
-| [01](https://www.bvirtual.com.br/NossoAcervo/Publicacao/447)| Lógica de Programação e Estrutura de Dados: com<br> aplicações em Java (Sandra Puga e Gerson Rissetti)
-| [02](https://www.alura.com.br/apostila-java-orientacao-objetos)| Java e Orientação a Objetos (apostila da Alura) 
-| [03](https://www.w3schools.com/java/java_encapsulation.asp)| Java Tutorial (W3Schools)
+| [01](https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html)| Code Conventions for the Java Programming Language (Oracle)
+| [02](https://www.bvirtual.com.br/NossoAcervo/Publicacao/447)| Lógica de Programação e Estrutura de Dados: com<br> aplicações em Java (Sandra Puga e Gerson Rissetti)
+| [03](https://www.alura.com.br/apostila-java-orientacao-objetos)| Java e Orientação a Objetos (apostila da Alura) 
+| [04](https://google.github.io/styleguide/javaguide.html) | Java Style Guide (Google) 
+| [05](https://www.w3schools.com/java/java_encapsulation.asp)| Java Tutorial (W3Schools)
 
 &nbsp;    
 [[Voltar ao topo]](https://github.com/michelelozada/Java-Study-Notes#java---notas-de-estudo)

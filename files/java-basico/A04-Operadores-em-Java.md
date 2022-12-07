@@ -144,3 +144,38 @@ System.out.println("Status: Aluno(a) " + status);
 
 // Status: Aluno(a) foi aprovado(a) no curso.
 ```
+
+&nbsp;
+&nbsp;   
+#### 7 - Precedência dos operadores
+*Seguem abaixo os principais operadores, estando os de maior precedência no topo.*
+&nbsp;
+&nbsp;    
+| **Categoria**         | **Operadores**               | **Associatividade**   |
+| :--                   | :--                          | :--                   |
+| incremento/decremento | `exp++` `exp--`              | direita para esquerda |
+| incremento/decremento | `++exp` `--exp`              | direita para esquerda |
+| unário de negação     | `!`                          | direita para esquerda |
+| aritméticos           | `*`  `/` `%`                 | esquerda para direita |
+| aritméticos           | `+` `-`                      | esquerda para direita |
+| comparação            | `<` `>` `<=` `>=`            | direita para esquerda |
+| comparação            | `==` `!=`                    | direita para esquerda |
+| lógico AND            | `&&`                         | esquerda para direita |
+| lógicos OR            | `\|\|`                       | esquerda para direita |
+| ternário              | `?:`                         | esquerda para direita |  
+| atribuição            | `=` `+=` `-=` `*=` `/=` `%=` | direita para esquerda |
+
+&nbsp;
+```java
+int a = 10;
+int b = 50;
+int c = 2;
+boolean p = true;
+boolean q = false;
+
+System.out.println((b + a) /c);  // Retorna: 30
+System.out.println(++a * c);  // 22
+System.out.println((a < 5) && b != 50);  // false
+System.out.println(p || q && !q); // true
+System.out.println(b % a + a);  // 17
+```

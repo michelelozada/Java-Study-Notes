@@ -68,12 +68,20 @@
 &nbsp;  
 ### III - Termos Computacionais
 
+- **Biblioteca**    
+Conjunto de funções e métodos, escritos em uma linguagem, que auxiliam em tarefas comuns, já que facilitam a implementação de soluções para o código.     
+&nbsp;
+
 - **Compilação**  
   Processo que transforma o código de alto nível escrito em código de máquina/binário.    
 &nbsp;
 
 - **Debug (aka *Depuração*)**  
   Processo de identificação e remoção (normalmente através da execução linha a linha de partes de um programa) de problemas no código-fonte de um aplicativo.  
+&nbsp;
+
+- **Framework**    
+Conjunto de códigos genéricos, cuja estrutura provê várias funcionalidades já prontas para utilização.     
 &nbsp;
 
 - **Iteração**  
