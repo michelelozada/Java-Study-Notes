@@ -28,7 +28,7 @@
 | [15](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A15-Metodos-arrays.md)| Métodos de Arrays |
 | [16](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A16-Tratamento-excecoes.md)| Tratamento de exceções |
 | [17](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A17-Glossario-Java.md)| *(Extra)* Pequeno Glossário do Java |
-| [18](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A18-Convencoes-codificacao.md)| *(Extra)* Convenções de codificação em Java |
+| [18](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A18-Convencoes-codificacao.md)| *(Extra)* Convenções de nomenclatura em Java |
 | [19](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A19-Atalhos-eclipse.md)| *(Extra)* Atalhos da IDE Eclipse |
 
 &nbsp;    
