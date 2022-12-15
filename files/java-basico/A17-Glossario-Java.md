@@ -100,3 +100,7 @@ Repetir a execução de um bloco de comandos infinitamente ou até que uma deter
    &nbsp;
    
     :bulb: ***"O Java é uma linguagem voltada ao paradigma de orientação a objetos".***        
+&nbsp;
+
+- **Paradigma de Programação**   
+Forma de não mudar a funcionalidade de um código, mas sim a maneira como ele é organizado.  

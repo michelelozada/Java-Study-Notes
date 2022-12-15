@@ -49,9 +49,10 @@
 | [12](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B12-Hashset.md)| Classe HashSet |
 | [13](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B13-Hashmap.md)| Classe HashMap |
 | [14](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B14-Metodos-uteis-collections.md)| Métodos e Padrões para Collections |
-| [15](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B15-Classe-DateTimeFormatter.md)| Classe LocalDate e LocalDateTime |
-| [16](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B16-Enum.md)| Enumeradores (Enum) |
-| [17](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B17-UML-conceitos.md)| *(Extra)* Alguns Conceitos de UML |
+| [15](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B15-Classe-Random.md)| Classe Random |
+| [16](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B16-Classe-DateTimeFormatter.md)| Classe LocalDate e LocalDateTime |
+| [17](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B17-Enum.md)| Enumeradores (Enum) |
+| [18](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B18-UML-conceitos.md)| *(Extra)* Alguns Conceitos de UML |
 
 &nbsp;    
 ### III. Exercicios Diversos
