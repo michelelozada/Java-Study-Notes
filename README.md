@@ -4,8 +4,7 @@
 
 [Fundamentos](https://github.com/michelelozada/Java-Study-Notes#i-fundamentos) &nbsp;•&nbsp; 
 [Classes](https://github.com/michelelozada/Java-Study-Notes#ii-classes) &nbsp;•&nbsp; 
-[Exercícios Diversos](https://github.com/michelelozada/Java-Study-Notes#iii-exercicios-diversos) &nbsp;•&nbsp;
-[Fontes Consultadas](https://github.com/michelelozada/Java-Study-Notes#iv-fontes-consultadas)
+[Exercícios Diversos](https://github.com/michelelozada/Java-Study-Notes#iii-exercícios-diversos)
 
 &nbsp; 
 ### I. Fundamentos
@@ -55,22 +54,25 @@
 | [18](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B18-UML-conceitos.md)| *(Extra)* Alguns Conceitos de UML |
 
 &nbsp;    
-### III. Exercicios Diversos
+### III. Exercícios Diversos
 | Link  | Tópico     |
 | :---: | :---		 |
 | [01](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/exercicios/exercicios-sintaxe-basica.md)| Exercícios - Sintaxe Básica |
 | [02](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/exercicios/exercicios-java-oo.md)| Exercícios - Classes |
 
-&nbsp;    
-### IV. Fontes Consultadas
-| Link   | Título |
-| :---:  | :---	  |
-| [01](https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html)| Code Conventions for the Java Programming Language (Oracle)
-| [02](https://www.bvirtual.com.br/NossoAcervo/Publicacao/447)| Lógica de Programação e Estrutura de Dados: com<br> aplicações em Java (Sandra Puga e Gerson Rissetti)
-| [03](https://www.alura.com.br/apostila-java-orientacao-objetos)| Java e Orientação a Objetos (apostila da Alura) 
-| [04](https://google.github.io/styleguide/javaguide.html) | Java Style Guide (Google) 
-| [05](https://www.w3schools.com/java/default.asp)| Java Tutorial (W3Schools)
+&nbsp;   
+ <details>
+ <summary><strong>Clique aqui para ver as referências consultadas para criação deste repositório</strong></summary>
 
-&nbsp;    
+  &nbsp;
+  &nbsp;   
+  [Code Conventions for the Java Programming Language (Oracle)](https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html)   
+  [Lógica de Programação e Estrutura de Dados: com aplicações em Java (Sandra Puga e Gerson Rissetti)](https://www.bvirtual.com.br/NossoAcervo/Publicacao/447)  
+  [Java e Orientação a Objetos (apostila da Alura)](https://www.alura.com.br/apostila-java-orientacao-objetos)   
+  [Java Style Guide (Google)](https://google.github.io/styleguide/javaguide.html)     
+  [Java Tutorial (W3Schools)](https://www.w3schools.com/java/default.asp)    
+ </details>
+  
+ &nbsp;    
 [[Voltar ao topo]](https://github.com/michelelozada/Java-Study-Notes#java---notas-de-estudo)
-</div>   
+</div> 
