@@ -46,3 +46,9 @@ System.out.println("Lista de legumes: " + listaLegumes);
 | iterator()         |                                               |
 | next()             | Faz com que o iterator vá para o próximo item | 
 | hasNext()          | Verifica se existe um próximo item            |
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

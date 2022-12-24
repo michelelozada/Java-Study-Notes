@@ -62,3 +62,9 @@ System.out.printf("Peso: %.2f quilos | Altura: %.2f metros", peso, altura);
 System.out.println("Nome do aluno: " + nome);
 System.out.println("Idade: " + idade);
 ```  
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

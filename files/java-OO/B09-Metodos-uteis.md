@@ -37,3 +37,9 @@ public class Principal{
 
 **Método `hashCode()`**    
 - "Gera um código para tabela Hash, que serve principalmente para mapearmos dados na memória em posições únicas".     
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

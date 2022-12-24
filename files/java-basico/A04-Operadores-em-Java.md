@@ -179,3 +179,9 @@ System.out.println((a < 5) && b != 50);  // false
 System.out.println(p || q && !q); // true
 System.out.println(b % a + a);  // 17
 ```
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

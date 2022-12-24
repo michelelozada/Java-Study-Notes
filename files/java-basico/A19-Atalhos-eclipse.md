@@ -27,3 +27,9 @@
 | Bloco try-catch   | *digitar* try + `Crtl` + `Enter` + `space bar`  |
 | Comando println() | *digitar* sysout + `Crtl` + `space bar`         |
 | Método main       | *digitar* main + `Crtl` + `space bar` + `Enter` |
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

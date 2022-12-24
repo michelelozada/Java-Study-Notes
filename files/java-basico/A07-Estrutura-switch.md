@@ -28,3 +28,9 @@ default:
 	break; 		
 }
 ```
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

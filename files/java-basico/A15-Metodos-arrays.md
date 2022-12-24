@@ -48,3 +48,9 @@ for(int i = (arrayNumeros.length - 1); i >= 0; i--) {
 }	
 // Retorna: 41 9 78 4 96 20 
 ```
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

@@ -44,3 +44,9 @@ Convenção utilizada: domínio + projeto + pasta. Exemplo: `com.nome-empresa.no
 Nomes utilizam letras minúsculas em tratando de uma palavra ou padrão camelCase no caso de mais de uma palavra.        
 Não devem ser nomes no plural.     
 De acordo com a convenção, não se utilizam os caracteres `$` e `_` nos seus nomes.  
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

@@ -121,3 +121,9 @@ System.out.println(teste1); // Retorna: C
 String teste2 = arrayDeLetras[arrayDeLetras.length -1];
 System.out.println(teste2); // Retorna: a
 ```
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

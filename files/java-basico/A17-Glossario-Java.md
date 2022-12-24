@@ -104,3 +104,9 @@ Repetir a execução de um bloco de comandos infinitamente ou até que uma deter
 
 - **Paradigma de Programação**   
 Forma de não mudar a funcionalidade de um código, mas sim a maneira como ele é organizado.  
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

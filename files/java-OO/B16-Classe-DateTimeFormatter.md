@@ -73,3 +73,9 @@ Data atual: 2022-11-14
 Data futura: 2022-11-21
 /*
 ```
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

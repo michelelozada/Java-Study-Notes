@@ -15,3 +15,9 @@
 | Informações sobre modalidades de lojas | Herança | [:page_facing_up:](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/exercicios/java-orientado-objetos/modalidade-lojas) | [:mag:](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/assets/uml/modalidade-lojas.png)
 | Ordenando um array de nomes | Classe ArrayList | [:page_facing_up:](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/exercicios/java-orientado-objetos/ordenando-array-nomes.java) | **--**
 | Caixinha de gorjetas | Classe ArrayList | [:page_facing_up:](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/exercicios/java-orientado-objetos/caixinha-gorjetas) | [:mag:](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/assets/uml/caixinha-gorjetas.png)
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

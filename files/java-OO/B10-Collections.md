@@ -79,3 +79,9 @@
 | HashMap       | Este tipo de Map não mantém nenhuma ordem de elementos 
 | LikedHashMap  | Este tipo de Map respeita a ordem de inserção dos elementos
 | TreeMap	    | Este tipo de Map respeita a ordem ascendente/natural, que é dada pela chave  
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

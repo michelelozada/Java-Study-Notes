@@ -49,3 +49,9 @@ boolean vacinado = true;
  - Aspas simples não são utilizadas para Strings; apenas para dados do tipo char.  
  - Tipo double é mais preciso, porém ocupa mais espaço na memória (8 bytes).  
  - Tipo float é mais econômico (4 bytes). Deve-se colocar `f` no fim da variável para indicar tipo float.  
+ 
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

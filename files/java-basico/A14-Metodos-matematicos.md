@@ -18,3 +18,9 @@ System.out.println(potencia); // Retorna: 8.0
 double raiz = Math.sqrt(9);
 System.out.println(raiz); // Retorna: 3.0
 ```		
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

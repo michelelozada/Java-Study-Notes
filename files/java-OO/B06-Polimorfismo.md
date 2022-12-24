@@ -100,3 +100,9 @@ public class Paralelogramo {
      
 **2.4 - Polimorfismo Paramétrico**  
  Ocorre quando um método é escrito de uma maneira genérica, que funciona da mesma forma para diferentes tipos de dados.  
+ 
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

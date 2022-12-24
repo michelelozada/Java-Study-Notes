@@ -46,3 +46,9 @@ class Vendedor extends Funcionario {
  - Não é herdado.  
  - As classes-filhas invocam os métodos da classe-mãe e, se for o caso, incluem ali os atributos de sua própria classe.  
  - Representado pela inclusão de `super()` no corpo do método construtor da(s) classe(s)-filha(s).
+ 
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

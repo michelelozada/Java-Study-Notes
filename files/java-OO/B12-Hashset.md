@@ -125,3 +125,9 @@ numeros.clear();
 System.out.println(numeros); // Retorna: []
 System.out.println(numeros.isEmpty()); // Retorna: true
 ```
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

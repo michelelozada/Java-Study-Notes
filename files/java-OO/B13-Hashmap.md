@@ -197,3 +197,9 @@ System.out.println(catalogoProdutos);
 produtos.clear();
 System.out.println(produtos.isEmpty()); // Retorna: true
 ```	
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>

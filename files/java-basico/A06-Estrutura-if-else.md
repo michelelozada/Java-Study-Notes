@@ -77,3 +77,9 @@ else {
 
 // Retorna: Sim, o voto é obrigatório para a sua faixa de idade.
 ```
+
+&nbsp;
+
+<div align="center">
+<a href="https://github.com/michelelozada/Java-Study-Notes">[Voltar à tela inicial do repositório]</a>
+</div>
