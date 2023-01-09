@@ -5,7 +5,7 @@
      
 &nbsp;    
 #### Arrays
- - Nome do array deve ser escrito no plural.  
+ - Nome deve ser escrito sempre no plural.  
 &nbsp;
 &nbsp; 
 #### Atributos
@@ -19,7 +19,7 @@
 &nbsp;
 &nbsp;  
 #### Coleções
- - Mesmas recomendações de ***Arrays***.  
+ - Mesmas recomendações de [Arrays](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A18-Convencoes-nomenclatura.md#arrays).  
 &nbsp;
 &nbsp;  
 #### Constantes
@@ -28,11 +28,11 @@
 &nbsp;
 &nbsp;  
 #### Enumeradores (Enum)
- - Mesmas recomendações de ***Constantes***.  
+ - Mesmas recomendações de [Constantes](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A18-Convencoes-nomenclatura.md#constantes).  
 &nbsp;
 &nbsp;  
 #### Interfaces
- - Mesmas recomendações de ***Classes***.    
+ - Mesmas recomendações de [Classes](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A18-Convencoes-nomenclatura.md#classes).    
 &nbsp;
 &nbsp;    
 #### Métodos
