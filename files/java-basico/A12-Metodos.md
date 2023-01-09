@@ -32,16 +32,16 @@ public int somarValores(int valor1, int valor2){
       O tipo da variável deve anteceder a variável
  &nbsp;     
  &nbsp;     
- - **Instrução `return`**      
-	Utilizada dentro de um método para retornar valores, sendo que após a sua execução o método é interrompido e há retorno do resultado para o trecho do programa que o chamou. Mandatória em métodos que não sejam do tipo `void`.
+ - **Declaração `return`**      
+	  Utilizada dentro de um método para retornar valores, sendo que após a sua execução o método é interrompido/finalizado e há retorno do resultado para o trecho do programa que o chamou. **Esta declaração é mandatória em métodos que não sejam do tipo `void.`**       
  &nbsp;     
  &nbsp;     
  - **Assinatura de um método**    
-    Composta pelo nome do método e por sua lista de parâmetros
+      Composta pelo nome do método e por sua lista de parâmetros
  &nbsp;     
  &nbsp;
  - **Sobrecarga de Métodos (*a.k.a. Overload*)**  
-    São métodos que possuem o mesmo nome, porém parâmetros diferentes (seja em termos de tipos, ordem/disposição ou mesmo da sua existência ali ou não).
+	  São métodos que possuem o mesmo nome, porém parâmetros diferentes (seja em termos de tipos, ordem/disposição ou mesmo da sua existência ali ou não).
  &nbsp;
 
  &nbsp;    

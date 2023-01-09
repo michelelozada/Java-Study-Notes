@@ -4,6 +4,15 @@
 &nbsp;
      
 &nbsp;      
+**Estrutura de Repetição - Loop For**  
+&nbsp;
+     
+Dividida em três partes, correspondendo:   
+- a primeira, à definição da variável contadora deste laço de repetição;   
+- a segunda, à expressão lógica que  irá controlar quantas vezes o loop será executado;   
+- e a última, ao incremento do contador, após cada iteração realizada.    
+&nbsp;
+
 ```java
 Scanner leitor = new Scanner(System.in);
 int multiplicador;
@@ -34,7 +43,7 @@ Tabuada do 5
 ```
 &nbsp;
 &nbsp;       
-Observação: Quando o bloco for possuir apenas uma instrução, podem ser suprimidas as chaves. *(Para mais de uma instrução, a utilização das chaves é mandatória!)*.   
+**Observação:** Quando o bloco for possuir apenas uma instrução, podem ser suprimidas as chaves. *(Para mais de uma instrução, a utilização das chaves é mandatória!)*.   
 ```java
 
 int i, num = 5;

@@ -4,46 +4,51 @@
 &nbsp;
      
 &nbsp;    
-- **Arrays**     
-Devem ter nomes no plural.  
+#### Arrays
+ - Nome do array deve ser escrito no plural.  
 &nbsp;
 &nbsp; 
-- **Classes**     
-Nomes utilizam primeira letra maiúscula ou padrão PascalCase.  
-Nome da classe e nome do arquivo devem ser os mesmos.  
+#### Atributos
+ - Nomes devem utilizar letras minúsculas (ou padrão camelCase no caso de mais de uma palavra).       
+&nbsp;
+&nbsp; 
+#### Classes
+ - Nomes devem ser escritos com a primeira letra maiúscula (ou padrão PascalCase para mais de uma palavra).    
+ - Deve ser um substantivo, com um nome significativo para a sua identificação.      
+ - Nome da classe e nome do arquivo sempre devem ser os mesmos.  
 &nbsp;
 &nbsp;  
-- **Coleções**   
-Mesmas recomendações de ***Arrays***.  
+#### Coleções
+ - Mesmas recomendações de ***Arrays***.  
 &nbsp;
 &nbsp;  
-- **Constantes**    
-Devem ser escritas com todas as letras maiúsculas.    
-Se houver mais de uma palavra, devem ser separadas por underscore. Exemplo: `ALIQUOTA_ADICIONAL`.  
+#### Constantes
+ - Devem ser escritas com todas as letras maiúsculas.    
+ - Se houver mais de uma palavra, deve ser utilizado o padrão SCREAMING_SNAKE_CASE. Exemplo: `ALIQUOTA_ADICIONAL`.  
 &nbsp;
 &nbsp;  
-- **Enumeradores (Enum)**   
-Mesmas recomendações de ***Constantes***.  
+#### Enumeradores (Enum)
+ - Mesmas recomendações de ***Constantes***.  
 &nbsp;
 &nbsp;  
-- **Interfaces**   
-Mesmas recomendações de ***Classes***.    
+#### Interfaces
+ - Mesmas recomendações de ***Classes***.    
 &nbsp;
 &nbsp;    
-- **Métodos**    
-Nomes utilizam letras minúsculas em tratando de uma palavra ou padrão camelCase no caso de mais de uma palavra.          
-Nomes devem conter nomes siginifcativos descrevendo sua ação, preferencialmente iniciando por um verbo.    
+#### Métodos
+ - Nomes utilizam letras minúsculas em tratando de uma única palavra (ou padrão camelCase no caso de mais de uma palavra).          
+ - Nomes devem conter nomes siginifcativos descrevendo sua ação, preferencialmente iniciando por um verbo.    
 &nbsp;
 &nbsp;  
-- **Pacotes**      
-Nomes escritos inteiramente em letras minúsculas.        
-Convenção utilizada: domínio + projeto + pasta. Exemplo: `com.nome-empresa.nome-projeto.nome-pasta`.      
+#### Pacotes
+ - Nomes escritos inteiramente em letras minúsculas.        
+ - Convenção utilizada: domínio + projeto + pasta. Exemplo: `com.nome-empresa.nome-projeto.nome-pasta`.      
 &nbsp;
 &nbsp;    
-- **Variáveis**     
-Nomes utilizam letras minúsculas em tratando de uma palavra ou padrão camelCase no caso de mais de uma palavra.        
-Não devem ser nomes no plural.     
-De acordo com a convenção, não se utilizam os caracteres `$` e `_` nos seus nomes.  
+#### Variáveis
+ - Nomes de variáveis utilizam letras minúsculas (ou padrão camelCase no caso de mais de uma palavra).        
+ - Não devem ser utilizados nomes no plural.     
+ - Não devem ser utilizados os caracteres `$` e `_`.  
 
 &nbsp;
 

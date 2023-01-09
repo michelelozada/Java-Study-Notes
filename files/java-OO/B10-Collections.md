@@ -4,21 +4,22 @@
 &nbsp;
      
 &nbsp;       
-:small_blue_diamond: **Coleção *(Collection)***    
+:arrow_forward: **Coleção *(Collection)***    
 
  Em Java, uma coleção é uma estrutura de dados que permite armazenar vários objetos nesta única unidade, sendo a coleção também considerada um objeto.  
  
 <h1></h1>
 &nbsp; 
 
-:small_blue_diamond: **java.util.Collection**   
+:arrow_forward: **java.util.Collection**   
 
- É uma interface que possui as subinterfaces **`List`**, **`Set`** e **`Queue`** (note, porém, que não possui a subinterface **`Map`**).   
+ - É uma interface que possui as subinterfaces **`List`**, **`Set`** e **`Queue`**.  
+ - Nota: A subinterface **`Map`** não está na interface Collection; porém está dentro do Collection Frameweork.  
  
  <h1></h1>
  &nbsp; 
  
-:small_blue_diamond: **Características das interfaces:**   
+:arrow_forward: **Características das interfaces:**   
 
 | Nome  | Interface         | Definição geral
 | :---  | :---              | :---
