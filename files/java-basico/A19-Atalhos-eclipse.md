@@ -7,26 +7,26 @@
 #### Editor
 |  Funcionalidade                         | Atalho Windows       |
 | :---                                    | :---                 |
-| Copiar uma linha                        | `Ctrl` + `Alt` + `↓` | 
-| Exibir parâmetros do método construtor  | `Ctrl` + `space bar` |
-| Criar projeto, classe, enumeração, etc. | `Ctrl` + `N`         |
+| Copiar uma linha                        | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>`↓`</kbd> | 
+| Exibir parâmetros do método construtor  | <kbd>Ctrl</kbd> + <kbd>space bar</kbd>            |
+| Criar projeto, classe, enumeração, etc. | <kbd>Ctrl</kbd> + <kbd>N</kbd>                    |
 
 &nbsp;
 &nbsp;  
 #### Visualização
 | Funcionalidade | Atalho Windows |
 | :---           | :---           |
-| Ampliar zoom   | `Ctrl` + `+`   |
-| Diminuir zoom  | `Ctrl` + `-`   |
+| Ampliar zoom   | <kbd>Ctrl</kbd> + <kbd>+</kbd> |
+| Diminuir zoom  | <kbd>Ctrl</kbd> + <kbd>-</kbd> |
 
 &nbsp;
 &nbsp;  
 #### Autocompletar
 | O quê?            | Como?                                           |
 | :---              | :---                                            |
-| Bloco try-catch   | *digitar* try + `Crtl` + `Enter` + `space bar`  |
-| Comando println() | *digitar* sysout + `Crtl` + `space bar`         |
-| Método main       | *digitar* main + `Crtl` + `space bar` + `Enter` |
+| Bloco try-catch   | *digitar* try + <kbd>Crtl</kbd> + <kbd>Enter</kbd> + <kbd>space bar</kbd>  |
+| Comando println() | *digitar* sysout + <kbd>Crtl</kbd> + <kbd>space bar</kbd>         |
+| Método main       | *digitar* main + <kbd>Crtl</kbd> + <kbd>space bar</kbd> + <kbd>Enter</kbd> |
 
 &nbsp;
 
