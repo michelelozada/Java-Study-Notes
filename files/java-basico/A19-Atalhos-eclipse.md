@@ -12,7 +12,7 @@
 | Criar projeto, classe, enumeração, etc. | <kbd>Ctrl</kbd> + <kbd>N</kbd>                    |
 
 &nbsp;
-&nbsp;  
+
 #### Visualização
 | Funcionalidade | Atalho Windows |
 | :---           | :---           |
@@ -20,13 +20,23 @@
 | Diminuir zoom  | <kbd>Ctrl</kbd> + <kbd>-</kbd> |
 
 &nbsp;
-&nbsp;  
+  
 #### Autocompletar
-| O quê?            | Como?                                           |
-| :---              | :---                                            |
-| Bloco try-catch   | *digitar* try + <kbd>Crtl</kbd> + <kbd>Enter</kbd> + <kbd>space bar</kbd>  |
-| Comando println() | *digitar* sysout + <kbd>Crtl</kbd> + <kbd>space bar</kbd>         |
-| Método main       | *digitar* main + <kbd>Crtl</kbd> + <kbd>space bar</kbd> + <kbd>Enter</kbd> |
+| O quê?                | Como?                                           |
+| :---                  | :---                                            |
+| Autocomplete em geral |  <kbd>Ctrl</kbd> + <kbd>space bar</kbd>   
+| Bloco try-catch       | *digitar* try + <kbd>Crtl</kbd> + <kbd>Enter</kbd> + <kbd>space bar</kbd>  |
+| Comando println()     | *digitar* sysout + <kbd>Crtl</kbd> + <kbd>space bar</kbd>         |
+| Método main           | *digitar* main + <kbd>Crtl</kbd> + <kbd>space bar</kbd> + <kbd>Enter</kbd> |
+
+&nbsp;
+
+#### Diversos
+| Funcionalidade | Atalho Windows |
+| :---           | :---           | 
+| Pesquisar e incluir imports necessários | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd> |
+| Reindentar o código |  <kbd>Ctrl</kbd> + <kbd>F</kbd>  |
+
 
 &nbsp;
 

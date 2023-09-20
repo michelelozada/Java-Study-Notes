@@ -10,6 +10,7 @@
 ### I. Fundamentos
 | Link  | Tópico  |
 | :---: | :---	  |
+| [00](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A00-Conceitos-iniciais.md)| Conceitos Iniciais |
 | [01](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A01-Tipos-de-variaveis.md)| Tipos de Variáveis |
 | [02](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A02-Constantes.md)| Constantes |
 | [03](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A03-Entrada-saida-dados.md)| Entrada e Saída de Dados |
@@ -70,7 +71,8 @@
   [Lógica de Programação e Estrutura de Dados: com aplicações em Java (Sandra Puga e Gerson Rissetti)](https://www.bvirtual.com.br/NossoAcervo/Publicacao/447)  
   [Java e Orientação a Objetos (apostila da Alura)](https://www.alura.com.br/apostila-java-orientacao-objetos)   
   [Java Style Guide (Google)](https://google.github.io/styleguide/javaguide.html)     
-  [Java Tutorial (W3Schools)](https://www.w3schools.com/java/default.asp)    
+  [Java Tutorial (W3Schools)](https://www.w3schools.com/java/default.asp)   
+	[Maratona Java Virado no Jiraya (Playlist do canal DevDojo)](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)  
  </details>
   
  &nbsp;    

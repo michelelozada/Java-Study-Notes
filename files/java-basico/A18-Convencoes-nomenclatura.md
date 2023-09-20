@@ -6,45 +6,52 @@
 &nbsp;    
 #### Arrays
  - Nome deve ser escrito sempre no plural.  
-&nbsp;
+
 &nbsp; 
+
 #### Atributos
  - Nomes devem utilizar letras minúsculas (ou padrão camelCase no caso de mais de uma palavra).       
-&nbsp;
+
 &nbsp; 
+
 #### Classes
  - Nomes devem ser escritos com a primeira letra maiúscula (ou padrão PascalCase para mais de uma palavra).    
  - Deve ser um substantivo, com um nome significativo para a sua identificação.      
  - Nome da classe e nome do arquivo sempre devem ser os mesmos.  
-&nbsp;
+
 &nbsp;  
+
 #### Coleções
  - Mesmas recomendações de [Arrays](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A18-Convencoes-nomenclatura.md#arrays).  
 &nbsp;
-&nbsp;  
+ 
 #### Constantes
  - Devem ser escritas com todas as letras maiúsculas.    
  - Se houver mais de uma palavra, deve ser utilizado o padrão SCREAMING_SNAKE_CASE. Exemplo: `ALIQUOTA_ADICIONAL`.  
+
 &nbsp;
-&nbsp;  
+  
 #### Enumeradores (Enum)
  - Mesmas recomendações de [Constantes](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A18-Convencoes-nomenclatura.md#constantes).  
-&nbsp;
+
 &nbsp;  
+
 #### Interfaces
  - Mesmas recomendações de [Classes](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A18-Convencoes-nomenclatura.md#classes).    
 &nbsp;
-&nbsp;    
+    
 #### Métodos
  - Nomes utilizam letras minúsculas em tratando de uma única palavra (ou padrão camelCase no caso de mais de uma palavra).          
  - Nomes devem conter nomes siginifcativos descrevendo sua ação, preferencialmente iniciando por um verbo.    
-&nbsp;
+
 &nbsp;  
+
 #### Pacotes
  - Nomes escritos inteiramente em letras minúsculas.        
- - Convenção utilizada: domínio + projeto + pasta. Exemplo: `com.nome-empresa.nome-projeto.nome-pasta`.      
-&nbsp;
+ - Convenção utilizada: domínio invertido + projeto + pasta. Exemplo: `com.nome-empresa.nome-projeto.nome-pasta`.      
+
 &nbsp;    
+
 #### Variáveis
  - Nomes de variáveis utilizam letras minúsculas (ou padrão camelCase no caso de mais de uma palavra).        
  - Não devem ser utilizados nomes no plural.     
