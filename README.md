@@ -4,9 +4,11 @@
 
 [Fundamentos](https://github.com/michelelozada/Java-Study-Notes#i-fundamentos) &nbsp;•&nbsp; 
 [Classes](https://github.com/michelelozada/Java-Study-Notes#ii-classes) &nbsp;•&nbsp; 
-[Exercícios Diversos](https://github.com/michelelozada/Java-Study-Notes#iii-exercícios-diversos)
+[Exercícios Diversos](https://github.com/michelelozada/Java-Study-Notes#iii-exercícios-diversos) &nbsp;•&nbsp;
+[Desenvovlvimento web](https://github.com/michelelozada/Java-Study-Notes#iv-desenvolvimento-web)
 
 &nbsp; 
+
 ### I. Fundamentos
 | Link  | Tópico  |
 | :---: | :---	  |
@@ -30,8 +32,10 @@
 | [17](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A17-Glossario-Java.md)| *(Extra)* Pequeno Glossário do Java |
 | [18](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A18-Convencoes-nomenclatura.md)| *(Extra)* Convenções de nomenclatura em Java |
 | [19](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A19-Atalhos-eclipse.md)| *(Extra)* Atalhos da IDE Eclipse |
+| [20](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-basico/A20-Atalhos-intellij.md)| *(Extra)* Atalhos da IDE IntelliJ Idea |
 
 &nbsp;    
+
 ### II. Classes
 | Link  | Tópico   |
 | :---: | :---	   |
@@ -55,13 +59,22 @@
 | [18](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/java-OO/B18-UML-conceitos.md)| *(Extra)* Alguns Conceitos de UML |
 
 &nbsp;    
-### III. Exercícios Diversos
+
+### III. Exercícios Diversos  
 | Link  | Tópico     |
 | :---: | :---		 |
 | [01](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/exercicios/exercicios-sintaxe-basica.md)| Exercícios - Sintaxe Básica |
 | [02](https://github.com/michelelozada/Java-Study-Notes/tree/main/files/exercicios/exercicios-java-oo.md)| Exercícios - Classes |
 
 &nbsp;   
+
+### IV. Desenvolvimento Web  
+| Link  | Tópico     |
+| :---: | :---		 |
+| [01](https://github.com/michelelozada/Java-Study-Notes/blob/main/files/web-java/maven.md)| *(Extra)* Introdução ao Maven |
+
+&nbsp; 
+
  <details>
  <summary><strong>Clique aqui para ver as referências consultadas para criação deste repositório</strong></summary>
 
